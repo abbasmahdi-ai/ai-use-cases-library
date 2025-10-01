@@ -7,27 +7,27 @@ For raw PNGs, see the [charts folder](./).
 ---
 
 ## 🌍 Industry Distribution
-![Industry distribution](./charts/industry_distribution.png)
+![Industry distribution](./industry_distribution.png)
 
 ---
 
 ## 🏢 Use Case Domains
-![Domain distribution](./charts/domain_distribution.png)
+![Domain distribution](./domain_distribution.png)
 
 ---
 
 ## 🎯 Outcomes & Benefits
-![Outcomes breakdown](./charts/outcomes_breakdown.png)
+![Outcomes breakdown](./outcomes_breakdown.png)
 
 ---
 
 ## 🏆 Vendor Presence by Tool/Technology
-![Vendor by Tool Mentions](./charts/vendor_by_tools.png)
+![Vendor by Tool Mentions](./vendor_by_tools.png)
 
 ---
 
 ## 📰 Vendor Presence by Source (Publisher)
-![Vendor by Source Publisher](./charts/vendor_by_source.png)
+![Vendor by Source Publisher](./vendor_by_source.png)
 
 ---
 
