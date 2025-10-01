@@ -1,0 +1,29 @@
+name: "Correction / Update Request"
+description: Report an error or suggest an update to an existing case.
+title: "[Correction] <CaseID or Organization - Title>"
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest corrections to existing cases (typos, wrong industry, tool, URL, etc.).
+  - type: input
+    id: caseid
+    attributes:
+      label: "CaseID (if known)"
+      description: "Unique CaseID (e.g., aicase-01843)"
+  - type: input
+    id: organization
+    attributes:
+      label: "Organization"
+      description: "Organization name from the case"
+  - type: input
+    id: title
+    attributes:
+      label: "Use Case Title"
+      description: "Case title from the dataset"
+  - type: textarea
+    id: correction
+    attributes:
+      label: "Proposed Correction"
+      description: "What should be updated (e.g., correct industry, updated source URL, tool fix)"

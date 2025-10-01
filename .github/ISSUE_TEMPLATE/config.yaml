@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Contribution Guidelines
+    url: https://github.com/abbasmahdi-ai/ai-use-case-library/blob/main/docs/contributing.md
+    about: Please read the contribution guidelines before suggesting or correcting use cases.

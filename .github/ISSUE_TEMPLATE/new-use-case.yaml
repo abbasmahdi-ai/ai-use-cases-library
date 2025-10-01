@@ -1,0 +1,63 @@
+name: "New Use Case Suggestion"
+description: Suggest a new AI use case to be added to the library.
+title: "[New Use Case] <Organization> - <Title>"
+labels: ["new-use-case"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new AI use case!  
+        Please provide at least the required fields (Organization, Title, Source URL).  
+        If accepted, your case will first go into the **in-review** dataset.
+  - type: input
+    id: organization
+    attributes:
+      label: "Organization"
+      description: "Name of the organization implementing the AI use case"
+      placeholder: "Example: Mahindra Group"
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: "Use Case Title"
+      description: "Short, descriptive title of the use case"
+      placeholder: "Multiagent AI for Hyper-personalized Messaging"
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: "Source URL"
+      description: "Link to the official case study or credible source"
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "Optional: Brief summary of the use case"
+  - type: input
+    id: industry
+    attributes:
+      label: "Use Case Industry"
+      description: "If known, the industry impacted by this use case"
+      placeholder: "Financial Services"
+  - type: input
+    id: domain
+    attributes:
+      label: "Use Case Domain"
+      description: "If known, the domain/function (e.g., Customer Experience, HR, Marketing)"
+      placeholder: "Customer Experience"
+  - type: input
+    id: tools
+    attributes:
+      label: "Tool/Technology"
+      description: "If known, the AI tool, vendor, or model used"
+      placeholder: "OpenAI | GPT-4o"
+  - type: textarea
+    id: outcomes
+    attributes:
+      label: "Outcomes & Benefits"
+      description: "If known, what outcomes or benefits were achieved"
