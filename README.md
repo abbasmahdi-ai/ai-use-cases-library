@@ -137,7 +137,7 @@ See [ROADMAP.md](ROADMAP.md) for details.
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE).
+Released under [MIT and CC-BY-4.0 Licenses](LICENSE).
 You are free to use, share, and adapt the dataset with attribution.
 
 ---
