@@ -1,6 +1,6 @@
 # Analysis Scripts
 
-This folder contains example scripts and notebooks for analyzing the **AI Use Case Library dataset**.
+This folder contains example scripts and notebooks for analyzing the **AI Use Cases Library dataset**.
 
 ## Included
 
@@ -39,7 +39,7 @@ This folder contains example scripts and notebooks for analyzing the **AI Use Ca
 
 ## Notes
 
-* The notebook is **minimal by design** for v1.0 — just enough to show dataset loading and simple analysis.
+* The notebook is **minimal by design** for v2.0 — just enough to show dataset loading and simple analysis.
 * For deeper insights, see `/insights/` and `/charts/`.
 * Contributions of new notebooks or scripts are welcome (see [CONTRIBUTING](../../docs/contributing.md)).
 

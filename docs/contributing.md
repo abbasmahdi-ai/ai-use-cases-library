@@ -1,11 +1,11 @@
 # Contributing to AI Use Cases Library
 
-Thank you for your interest in contributing! 🎉  
+Thank you for your interest in contributing! 
 This project thrives on community input — from suggesting new use cases to refining taxonomy, fixing errors, or improving documentation.
 
 ---
 
-## 🧭 Contribution Workflow
+## Contribution Workflow
 
 1. **Fork the repository**  
 Click the **Fork** button at the top right of this repo to create your own copy.
@@ -44,7 +44,7 @@ Please describe what you changed and link to relevant issue templates.
 
 ---
 
-## 📝 Use Case Guidelines
+## Use Case Guidelines
 
 - Format: Follow the schema in [data/schema.md](data/schema.md).
 - Accuracy: Only include verified AI implementations (not just "AI-powered" marketing).
@@ -53,7 +53,7 @@ Please describe what you changed and link to relevant issue templates.
 
 ---
 
-## 🛠 Issues & Templates
+## Issues & Templates
 
 - [New Use Case](../.github/ISSUE_TEMPLATE/new-use-case.yaml)
 - [Correction / Update](../.github/ISSUE_TEMPLATE/correction.yaml)
@@ -62,7 +62,7 @@ Please use these templates so submissions remain consistent.
 
 ---
 
-## ✅ Style Notes
+## Style Notes
 
 - Use sentence case for titles.
 - Keep descriptions concise but specific.
@@ -71,7 +71,7 @@ Please use these templates so submissions remain consistent.
 
 ---
 
-## 📜 License
+## License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](../LICENSE).
 

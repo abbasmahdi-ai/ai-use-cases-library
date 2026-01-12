@@ -9,7 +9,7 @@ It ensures **consistency**, **quality**, and **clarity** across all entries.
 
 | Column              | Description                                                                                   | Example |
 |---------------------|-----------------------------------------------------------------------------------------------|---------|
-| **CaseID**          | Unique identifier for the use case. Format: `aicase-00001` (final), `aicase-x0001` (excluded), `aicase-02261`+ (in-review). See [`CASEID_POLICY.md`](../CASEID_POLICY.md). | `aicase-01542` |
+| **CaseID**          | Unique identifier for the use case. Format: `aicase-00001` (final or in-review), `aicase-x0001` (excluded). See [`CASEID_POLICY.md`](../CASEID_POLICY.md). | `aicase-01542` |
 | **Organization**    | Name of the company, institution, or entity implementing AI.                                  | `Siemens Energy` |
 | **Use Case Title**  | Concise, descriptive title (not marketing language).                                           | `AI-powered inspection with NVIDIA Triton` |
 | **Description**     | Short summary of the problem, solution, and outcome.                                           | `Siemens used NVIDIA Triton for computer vision to automate safety inspections.` |

@@ -1,11 +1,11 @@
-# 🏷 Taxonomy – AI Use Cases Library
+# Taxonomy – AI Use Cases Library
 
 This taxonomy defines the categories used to classify use cases in the library.  
 It ensures **consistency**, **clarity**, and **searchability** across the dataset.
 
 ---
 
-## 1. 🎯 Industries
+## 1. Industries
 
 The **primary industry** of the organization or the use case’s impact area.  
 (One per case, unless truly cross-industry.)
@@ -34,7 +34,7 @@ The **primary industry** of the organization or the use case’s impact area.
 
 ---
 
-## 2. 🧭 Domains (Use Case Functions)
+## 2. Domains (Use Case Functions)
 
 The **business or operational function** where AI is applied.  
 Examples include:
@@ -60,7 +60,7 @@ Examples include:
 
 ---
 
-## 3. 🏷 Subindustry Tags
+## 3. Subindustry Tags
 
 Optional **refinements** to industries.  
 Examples:
@@ -72,7 +72,7 @@ Examples:
 
 ---
 
-## 4. 📊 Outcomes & Benefits
+## 4. Outcomes & Benefits
 
 Each case should capture one or more **measurable outcomes**:
 
@@ -89,7 +89,7 @@ Each case should capture one or more **measurable outcomes**:
 
 ---
 
-## 5. 🔧 Tools & Technologies
+## 5. Tools & Technologies
 
 Where specified, list the **tools, platforms, or models** used. Examples:
 
@@ -101,7 +101,7 @@ Where specified, list the **tools, platforms, or models** used. Examples:
 
 ---
 
-## 6. 🌐 Cross-Industry Cases
+## 6. Cross-Industry Cases
 
 Some use cases genuinely cut across multiple industries.  
 - Keep them under **Cross-Industry** if the primary sector cannot be determined.  
@@ -109,7 +109,7 @@ Some use cases genuinely cut across multiple industries.
 
 ---
 
-## 7. ⚖️ Principles
+## 7. Principles
 
 - **One primary industry** per case.  
 - Use **subindustry tags** for nuance.  

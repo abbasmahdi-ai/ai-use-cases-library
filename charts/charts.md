@@ -1,32 +1,32 @@
-# 📊 AI Use Cases Library – Charts Gallery
+# AI Use Cases Library – Charts Gallery
 
-This page collects the main charts derived from the dataset of 2,260 curated AI use cases.  
+This page collects the main charts derived from the dataset of 3,023 curated AI use cases.  
 For raw PNGs, see the [charts folder](./).
 
 
 ---
 
-## 🌍 Industry Distribution
+## Industry Distribution
 ![Industry distribution](./industry_distribution.png)
 
 ---
 
-## 🏢 Use Case Domains
+## Use Case Domains
 ![Domain distribution](./domain_distribution.png)
 
 ---
 
-## 🎯 Outcomes & Benefits
+## Outcomes & Benefits
 ![Outcomes breakdown](./outcomes_breakdown.png)
 
 ---
 
-## 🏆 Vendor Presence by Tool/Technology
+## Vendor Presence by Tool/Technology
 ![Vendor by Tool Mentions](./vendor_by_tools.png)
 
 ---
 
-## 📰 Vendor Presence by Source (Publisher)
+## Vendor Presence by Source (Publisher)
 ![Vendor by Source Publisher](./vendor_by_source.png)
 
 ---

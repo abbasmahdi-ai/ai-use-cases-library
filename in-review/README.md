@@ -1,7 +1,7 @@
 # In-Review Use Cases
 
 This folder contains **use cases that are pending review** for possible inclusion in the final dataset.  
-As of **v1.0**, there are **266 cases** in this stage.
+As of **v2.0**, there are **78 cases** in this stage.
 
 ---
 
@@ -15,14 +15,14 @@ As of **v1.0**, there are **266 cases** in this stage.
 ---
 
 ## 🆔 CaseIDs
-- In-review CaseIDs: **aicase-02261 → aicase-02526**.
+- In-review cases are no longer in sequential order due to quality reviews and reclassifications.
 - Once validated, cases are moved into the **final dataset** (`/data/use-cases.csv`) in a future release.  
 - If they do not meet criteria, they are moved to `/excluded`.
 
 ---
 
 ## ⚠️ Disclaimer
-- Use this dataset with caution — is is a **work-in-progress** and **not production quality**.
+- Use this dataset with caution - is is a **work-in-progress** and **not production quality**.
 - It may contain incomplete information, missing enrichment, or unverified classifications.  
 - Use it for background reference only. You should rely primarily on the **final dataset** (`/data/use-cases.csv`) for quality-controlled results.
 

@@ -1,11 +1,11 @@
-# 📖 Methodology – AI Use Cases Library
+# Methodology – AI Use Cases Library
 
 This document explains how the AI Use Cases Library dataset was built, normalized, and maintained.  
 It is intended to provide **transparency**, **reproducibility**, and **guidance** for future contributions.
 
 ---
 
-## 1. 🔍 Sources
+## 1. Sources
 We collected use cases from a wide range of **primary and secondary sources**, including:
 - Official vendor case study portals (OpenAI, Anthropic, IBM, Nvidia, AWS, Google, Microsoft, etc.)
 - Customer success stories from vendor blogs
@@ -15,14 +15,14 @@ We collected use cases from a wide range of **primary and secondary sources**, i
 
 ---
 
-## 2. 📦 Collection Process
+## 2. Collection Process
 - Automated scraping tools were used where allowed (with respect for robots.txt).  
 - Manual collection was performed for sources with restricted or blocked scraping.  
 - Each entry was captured with **organization, title, description, URL, and source vendor** as the minimal fields.
 
 ---
 
-## 3. 🧹 Cleaning & Normalization
+## 3. Cleaning & Normalization
 - Removed duplicates across vendors and overlapping case studies.  
 - Filtered out "AI-washing" (cases labeled *AI-powered* but lacking any AI/ML component).  
 - Consolidated fragmented descriptions into a **normalized structure** with clear fields:
@@ -37,7 +37,7 @@ We collected use cases from a wide range of **primary and secondary sources**, i
 
 ---
 
-## 4. 🏷 Taxonomy Assignment
+## 4. Taxonomy Assignment
 Each case was tagged using a custom taxonomy (see [`docs/taxonomy.md`](taxonomy.md)) across:
 - **Industry** (e.g., Healthcare, Financial Services, Manufacturing)  
 - **Subindustry Tags** (e.g., Pharmaceuticals, Insurance, Automotive)  
@@ -47,7 +47,7 @@ Each case was tagged using a custom taxonomy (see [`docs/taxonomy.md`](taxonomy.
 
 ---
 
-## 5. 🧩 Enrichment
+## 5. Enrichment
 - Used **LLM-based enrichment scripts** to:
   - Suggest better descriptive titles  
   - Expand vague descriptions into clearer summaries  
@@ -57,7 +57,7 @@ Each case was tagged using a custom taxonomy (see [`docs/taxonomy.md`](taxonomy.
 
 ---
 
-## 6. 🚫 Exclusions
+## 6. Exclusions
 Cases were excluded if:
 - They contained **no real AI/ML component** (pure analytics, BI, or automation only)  
 - The **source URL was broken** or insufficiently documented  
@@ -67,14 +67,14 @@ These are documented in [`excluded/use-cases-excluded.csv`](../excluded/).
 
 ---
 
-## 7. 📝 Versioning
+## 7. Versioning
 - Changes are tracked in [`CHANGELOG.md`](../CHANGELOG.md).  
 - Case IDs follow the rules in [`CASEID_POLICY.md`](../CASEID_POLICY.md).  
 - Milestones and upcoming plans are documented in [`ROADMAP.md`](../ROADMAP.md).  
 
 ---
 
-## 8. 🤝 Community Contributions
+## 8. Community Contributions
 Contributors are encouraged to:
 - Suggest new use cases with [issue templates](../.github/ISSUE_TEMPLATE/)  
 - Flag incomplete or incorrect entries  
@@ -83,7 +83,7 @@ Contributors are encouraged to:
 
 ---
 
-## 9. 🎯 Guiding Principles
+## 9. Guiding Principles
 - **Transparency**: document sources and decisions  
 - **Consistency**: follow schema and taxonomy  
 - **Responsibility**: avoid hype, focus on *actual AI implementations*  

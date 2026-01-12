@@ -1,6 +1,6 @@
 # 📂 Data – AI Use Cases Library
 
-This folder contains the **core dataset** of the AI Use Case Library.  
+This folder contains the **core dataset** of the AI Use Cases Library.  
 All use cases follow the structure defined in [`schema.md`](schema.md).
 
 ---
@@ -9,7 +9,7 @@ All use cases follow the structure defined in [`schema.md`](schema.md).
 
 - **`use-cases.csv`**  
   The **final curated dataset**.  
-  - 2,260 use cases (as of v1.0)  
+  - 3,023 use cases (as of v2.0)  
   - Cleaned, normalized, and fully tagged using the taxonomy  
   - Only **production-ready** cases are included here
 
