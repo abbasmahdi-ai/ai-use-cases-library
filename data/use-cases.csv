@@ -9958,57 +9958,57 @@ aicase-02260,University Hospital Bonn (UKB),VR surgical training & 3D medical im
 aicase-02261,30MHz,Real-time Decision Making for Climate and Irrigation in Greenhouses,"30 MHz developed a solution combining data monitoring software, data collecting hardware (wireless sensors), and machine learning to help farmers. The goal was to provide data-driven technology to bridge the gap between low-tech and high-tech farmers. The ML technology enables growers to make real-time decisions on climate and irrigation to create optimal growing conditions for crops. The AWS team helped develop and automate the ML pipeline using Amazon SageMaker. This prototype is currently being tested by 8 pilot growers.",Technology,Agriculture,"Greenhouses, Indoor Farms",Operations & Supply Chain,Machine learning ; Amazon SageMaker ; AWS Greengrass,"
 • Enabled real-time autonomous control possibilities. 
 • Allows for optimal growing conditions for crops. 
-• Dramatically lower the costs of running a greenhouse.",https://youtu.be/sngtHh1iVaY?did=cr_card&trk=cr_card,Youtube
+• Dramatically lower the costs of running a greenhouse.",https://youtu.be/sngtHh1iVaY?did=cr_card&trk=cr_card,YouTube
 aicase-02262,aCommerce,Ask IQ: QuickSight Q for Embedded Self-Service eCommerce Analytics,"aCommerce was dealing with a large backlog of requests for their BI team. They launched ""Ask IQ,"" embedding Amazon QuickSight Q into their Market Insights tool, allowing customers to ask questions in natural language and receive analytics without BI intervention.",Retail & E-commerce,Retail & E-commerce,"E-commerce Analytics, Competitive Analysis",Data & Analytics,Amazon QuickSight Q ; embedded solution of Amazon QuickSight Q,"
 • Takes the work off the BI team. 
 • Enabled development using the same team, launching in less than a year. 
-• Users can ask questions and get analytics back without BI intervention.",https://www.youtube.com/watch?v=Cha9aFjXM20&did=cr_card&trk=cr_card,Youtube
+• Users can ask questions and get analytics back without BI intervention.",https://www.youtube.com/watch?v=Cha9aFjXM20&did=cr_card&trk=cr_card,YouTube
 aicase-02263,ARAMEX LTD,Geocoding Addresses using Generative Machine Learning for Last-Mile Optimization,"Aramex faced the challenge of lacking a proper address management structure in emerging markets, leading to dependency on descriptive addresses and costly customer calls. They deployed a generative machine learning/text matching algorithm that looks at a descriptive address relative to historical data to come up with an XY coordinate. This optimizes last-mile capacity and routes early in the fulfillment journey.",Transportation & Logistics,Transportation & Logistics,"Last-Mile Delivery, Address Management",Operations & Supply Chain,Generative machine learning algorithm ; Text matching algorithm ; Amazon SageMaker ; Amazon Glue ; Redshift ; S3,"
 • Reduces dependency on a skilled worker to sort addresses. 
 • Reduces the number of calls made to customers to acquire addresses. 
 • Improves customer experience. 
 • Optimize last-mile capacity and routes. 
 • 10% improvement on average success rates on a daily basis in emerging and core markets. 
-• Improved the productivity of the driver by almost 10% in core markets.",https://youtu.be/JVcKidzqpYY?did=cr_card&trk=cr_card,Youtube
+• Improved the productivity of the driver by almost 10% in core markets.",https://youtu.be/JVcKidzqpYY?did=cr_card&trk=cr_card,YouTube
 aicase-02264,AstraZeneca,Development Assistant: GenAI for Clinical Trial Optimization and Recruitment,"AstraZeneca needed to tackle the complexity of clinical trials, specifically patient recruitment and site selection. They built ""Development Assistant,"" a generative AI application using Amazon Bedrock. It uses text-to-SQL and RAG to combine structured and unstructured data, allowing users to get insights in seconds via natural language queries.",Healthcare,Healthcare,"Clinical Trials, Pharmaceutical Development",Product Development / R&D & Engineering,Amazon Bedrock ; Generative AI ; text to SQL ; RAG ; Development Assistant,"
 • Provides insights within seconds. 
-• Accelerates medicines to patients much quicker.",https://www.youtube.com/watch?v=mnww9PJ6ir4&did=cr_card&trk=cr_card,Youtube
+• Accelerates medicines to patients much quicker.",https://www.youtube.com/watch?v=mnww9PJ6ir4&did=cr_card&trk=cr_card,YouTube
 aicase-02265,Autodesk,Accelerating Autodesk AI Development with Custom Models,Autodesk needed to build complex design models trained on customer data to accelerate their AI capabilities. They use Amazon SageMaker to build their own custom models.,Technology,Technology,"Design Models, Custom AI Development",Product Development / R&D & Engineering,Amazon SageMaker ; custom models ; Autodesk AI,"
 • Accelerated Autodesk AI. 
-• Enabled them to focus energy and deliver software faster.",https://www.youtube.com/watch?v=K2CXD9VnfWw&did=cr_card&trk=cr_card,Youtube
+• Enabled them to focus energy and deliver software faster.",https://www.youtube.com/watch?v=K2CXD9VnfWw&did=cr_card&trk=cr_card,YouTube
 aicase-02268,Bria AI,,"Bria AI trains its large foundation models, requiring supercomputers and petabytes of multimodality data (images, videos, music). They use Amazon S3 for storage and Amazon SageMaker for training. They utilized Apache Iceberg tables for their data catalog, enabling research teams to curate real-time data and create subset training datasets.",Technology,Technology,"Generative AI, Visual Models",Product Development / R&D & Engineering,Amazon SageMaker ; Apache Iceberg tables ; Gen AI,"
-• Allowed Bria to scale from one foundation model up to 50 foundation models.",https://www.youtube.com/watch?v=jDM_hFPiKfo&did=cr_card&trk=cr_card,Youtube
+• Allowed Bria to scale from one foundation model up to 50 foundation models.",https://www.youtube.com/watch?v=jDM_hFPiKfo&did=cr_card&trk=cr_card,YouTube
 aicase-02269,Canada Life,Accelerated API Security Vulnerability Remediation and Cloud Migration,"Canada Life needed to migrate APIs from on-prem to AWS Cloud, but had existing security vulnerabilities needing remediation. They used Amazon Q Developer transformation capabilities (GenAI) to reduce the time needed for upgrading and remediating these vulnerabilities, enabling the cloud migration.",Financial Services,Financial Services,"API Migration, Security Remediation",IT & Platform Operations,Amazon Q Developer transformation capabilities ; Generative AI,"
 • Able to improve productivity by 40% on average. 
 • Reduced the risk of failure in outages. 
-• Increased the availability, resiliency, and performance of front end digital systems.",https://www.youtube.com/watch?v=_Cp7Jno9AQc&did=cr_card&trk=cr_card,Youtube
+• Increased the availability, resiliency, and performance of front end digital systems.",https://www.youtube.com/watch?v=_Cp7Jno9AQc&did=cr_card&trk=cr_card,YouTube
 aicase-02270,CapGemini,Machine Learning for Sperm Whale Fluke Matching and Identification,"Researchers previously manually identified sperm whales using photographs of tail flukes, a highly repetitive task. Capgemini provided a machine learning solution to automate the identification process by training an AI to match new uploaded pictures against a database.",Nonprofit & NGO,Nonprofit & NGO,"Marine Biology, Conservation",Data & Analytics,Machine learning ; AI,"
 • Automates the repetitive process of matching tail flukes. 
 • Finds matches that the biologist would never find looking by eye. 
-• All information is aggregated in a database to understand social structure.",https://www.youtube.com/watch?v=ZZs4R-5u4g4&did=cr_card&trk=cr_card,Youtube
+• All information is aggregated in a database to understand social structure.",https://www.youtube.com/watch?v=ZZs4R-5u4g4&did=cr_card&trk=cr_card,YouTube
 aicase-02271,Careem,Identity-Based Fraud Detection using Graph Convolutional Networks,"Careem sought a blanket approach to cover all fraud types. They built ""Crazy Wall"" using a graph database (Neptune) to represent user identity. They are moving to version two which replaces simple rules with Neptune ML to train a Graph Convolutional Network (GCN) for highly accurate prediction of fraudulent users.",Transportation & Logistics,Transportation & Logistics,"Ride-Hailing, Payment Fraud",Security & Cyber / Risk Management,Amazon Neptune ; Neptune ML ; Graph Convolutional Network (GCN) ; Graph database,"
 • Initial rule-based system achieved 90% precision. 
 • Blocked about 35,000 bad actors since launch. 
 • Aim is to improve precision closer to 100%. 
 • Aim is to increase recall (number of users blocked). 
-• Goal is 100% automated blocking, eliminating manual review system.",https://youtu.be/acm-HWJhEOA?did=cr_card&trk=cr_card,Youtube
+• Goal is 100% automated blocking, eliminating manual review system.",https://youtu.be/acm-HWJhEOA?did=cr_card&trk=cr_card,YouTube
 aicase-02272,CarGurus,Instant Market Value (IMV) using Machine Learning,"CarGurus developed the Instant Market Value (IMV) tool to bring transparency to car buyers regarding pricing (good deal, bad deal, etc.). This uses machine learning and predictive insights, powered by Amazon SageMaker, across their platform. They also use SageMaker to democratize data science across their engineering organization.",Retail & E-commerce,Retail & E-commerce,Automotive Retail,Data & Analytics,Amazon SageMaker ; Machine learning,"
 • Brings transparency to the viewer/consumer regarding pricing. 
-• Democratizes data science across the engineering organization.",https://www.youtube.com/watch?v=cOw4MvdWk3c&did=cr_card&trk=cr_card,Youtube
+• Democratizes data science across the engineering organization.",https://www.youtube.com/watch?v=cOw4MvdWk3c&did=cr_card&trk=cr_card,YouTube
 aicase-02274,Cohere,Retrieval and Search for Employee Q&A using Embeddings and Re-ranking,"Employees often hunt and peck for answers within enterprise data. Cohere provides embed (to convert data to numeric form for semantic search) and rerank models on Amazon Bedrock. This allows an employee to ask a question to the generative model and receive a tailored, relevant answer.",Technology,Cross-Industry,"Semantic Search, Internal Knowledge Management",Data & Analytics,Cohere models ; Amazon Bedrock ; Embeddings ; Rerank ; Generative AI,"
-• Provides the perfect tailored answer to the employee.",https://www.youtube.com/watch?v=EO1FKaN8woY&did=cr_card&trk=cr_card,Youtube
+• Provides the perfect tailored answer to the employee.",https://www.youtube.com/watch?v=EO1FKaN8woY&did=cr_card&trk=cr_card,YouTube
 aicase-02277,Cox Communications,Service Health Framework for Proactive Customer Issue Resolution,"Cox historically relied on customers to report issues. They built ""Service Health"" to identify patterns of imminent failure and proactively reach out to customers. This uses Amazon Bedrock to analyze massive amounts of unstructured customer data (transcripts, journal entries). Generative AI provides forensic tools to service assurance teams and field technicians.",Telecommunications,Telecommunications,"Broadband Services, Network Operations",Operations & Supply Chain,Amazon Bedrock ; Generative AI ; traditional analytics,"
 • Enables better detection and prevention of customer issues from happening. 
 • Improves ability to resolve complex and elusive issues more quickly.","â€¢ https://aws.amazon.com/ai/generative-ai/use-cases/
-â€¢ https://www.youtube.com/watch?v=1LSUJ1MShT8",Youtube
+â€¢ https://www.youtube.com/watch?v=1LSUJ1MShT8",YouTube
 aicase-02280,Eyeota,Scalable ML Model Lifecycle Management for Data Quality and Audience Discovery,"Eyeota needed to achieve high data quality while managing vast data volumes for audience discovery. They use ML algorithms to optimize data quality and scale, managing the full model lifecycle (training, tuning, inference) using SageMaker, Glue, and Airflow. The system processes billions of advertising IDs per month.","Media, Entertainment & Sports","Media, Entertainment & Sports","Ad Tech Data Quality, Audience Data Marketplace",Marketing & Advertising,Machine learning algorithms ; Amazon SageMaker ; Apache Airflow ; PySpark ; Glue,"
 • Achieves high data quality (certified by IAB Tech Lab and Neutronian). 
 • Increased delivery velocity. 
 • Most training pipelines configured within three to five working days (half of what was done earlier). 
 • Improved transparency on model performance. 
-• Gained configurability.",https://youtu.be/sQsAGl7mSQs?did=cr_card&trk=cr_card,Youtube
+• Gained configurability.",https://youtu.be/sQsAGl7mSQs?did=cr_card&trk=cr_card,YouTube
 aicase-02281,Fair Trade USA,Generative AI for Customizing Impact Stories for Different Audiences,"Fair Trade USA aims for rich data content and storytelling (e.g., consumer scanning a QR code to see farming family stories). They are looking at Amazon Bedrock and generative AI to customize these stories and tweak the narrative for different audiences.",Nonprofit & NGO,Nonprofit & NGO,"Ethical Sourcing, Consumer Engagement",Marketing & Advertising,Amazon Bedrock ; Generative AI,"
-• Helps customize stories and tweak the narrative for different audiences.",https://www.youtube.com/watch?v=1mQOul6LlUk&did=cr_card&trk=cr_card,Youtube
+• Helps customize stories and tweak the narrative for different audiences.",https://www.youtube.com/watch?v=1mQOul6LlUk&did=cr_card&trk=cr_card,YouTube
 aicase-02282,Firemind,Generative AI Use Case Discovery and Development Consulting,"Firemind, an AWS Advanced Partner, assists customers in maximizing data usage. They utilize generative AI and Amazon Bedrock to help customers develop entirely novel use cases.",Professional Services,Professional Services,Generative AI Consulting,Product Development / R&D & Engineering,Generative AI ; Amazon Bedrock,"
 • Customers are developing new use cases that have never been thought of before.",https://aws.amazon.com/solutions/case-studies/firemind-generative-ai/?did=cr_card&trk=cr_card,AWS
 aicase-02283,Fireworks.ai,"High-Performance, Cost-Optimized Generative AI Inference","Fireworks.ai needed to build a lightning-fast, affordable, and customizable generative AI inference solution. They upgraded their solution using Amazon EC2 P5 Instances powered by NVIDIA H100 Tensor Core GPUs. This solution handles highly demanding foundation models, offering SaaS and containerized deployment options.",Technology,Technology,"Generative AI Inference, LLM Hosting",IT & Platform Operations,Generative AI ; Amazon EC2 P5 Instances ; NVIDIA H100 Tensor Core GPUs ; PyTorch,"
@@ -10020,46 +10020,46 @@ aicase-02283,Fireworks.ai,"High-Performance, Cost-Optimized Generative AI Infere
 aicase-02286,"Fresenius Medical Care Holdings, Inc.",Near Real-Time Prediction of Intradialytic Hypotension (IDH) Incidences,"Intradialytic Hypotension (IDH) is a frequent and costly complication during hemodialysis. The architecture provides personalized care by predicting IDH incidence sooner through a predictive model. Kinesis Data Analytics builds features from near real-time machine data, which is then used by Amazon SageMaker for inference. Results are visualized in Kibana.",Healthcare,Healthcare,"Chronic Kidney Disease (CKD), Dialysis, Patient Monitoring",Data & Analytics,Predictive model ; Amazon SageMaker ; Kinesis Data Analytics,"
 • Enables personalized care for each patient. 
 • Can reduce and track the incidence of IDH sooner. 
-• Might reduce treatment cost (by reducing substantial staff attention needed for management).",https://youtu.be/wtl7CrSQnHA?did=cr_card&trk=cr_card,Youtube
+• Might reduce treatment cost (by reducing substantial staff attention needed for management).",https://youtu.be/wtl7CrSQnHA?did=cr_card&trk=cr_card,YouTube
 aicase-02287,Halodoc,Image Recognition for Filtering Medically Relevant Content,"Halodoc needed to prevent doctors from receiving inappropriate images when users upload photos (e.g., of a skin rash). They use Amazon Rekognition to kick in an image recognition algorithm to determine whether the image is medically relevant or not.",Healthcare,Healthcare,"Tele-Health, Image Filtering",Security & Cyber / Risk Management,Amazon Rekognition ; Image recognition algorithm,"
 • Ensures doctors on the platform do not get inappropriate images from users. 
-• Did a really good job of classifying the images (without needing retraining).",https://youtu.be/gdieNSxZC4Y?did=cr_card&trk=cr_card,Youtube
+• Did a really good job of classifying the images (without needing retraining).",https://youtu.be/gdieNSxZC4Y?did=cr_card&trk=cr_card,YouTube
 aicase-02288,Healthfirst,Machine Learning Scoring for Member Insights,Healthfirst collects data from claims and members and sought to gain deeper insights. Data science teams use Amazon SageMaker to score all incoming data to understand their customers better. The results streamline into core business strategic initiatives.,Healthcare,Healthcare,"Health Insurance, Predictive Analytics",Data & Analytics,Amazon SageMaker ; SageMaker Notebooks ; Machine learning,"
 • Adds to the scoring capability of understanding customers better. 
 • Helps streamline creative insights into core business strategic initiatives. 
-• Helps do good for their members.",https://youtu.be/XpFNznmRoQ0?did=cr_card&trk=cr_card,Youtube
+• Helps do good for their members.",https://youtu.be/XpFNznmRoQ0?did=cr_card&trk=cr_card,YouTube
 aicase-02290,Infor,Enterprise AI Assistant for Workflow Guidance and Optimization,"Infor sought to bring wisdom and insights through generative AI as users go through workflows or review operational performance, aiming for enterprise automation, prediction, and optimization. The AI assistant is built using Amazon Bedrock as a framework and SageMaker as the core AI platform.",Technology,Technology,"Enterprise Automation, ERP",Operations & Supply Chain,Generative AI ; Amazon Bedrock ; SageMaker ; AI assistant,"
 • Makes customers more effective in their daily job. 
 • Achieves next level optimization, moving from 80% operational optimization to 90% or even 100%. 
-• Infor can focus on value delivery rather than IT worries.",https://www.youtube.com/watch?v=YOZq65pasck&did=cr_card&trk=cr_card,Youtube
+• Infor can focus on value delivery rather than IT worries.",https://www.youtube.com/watch?v=YOZq65pasck&did=cr_card&trk=cr_card,YouTube
 aicase-02292,JD Power,ML Model Creation and Development on AI Cloud Platform,JD Power needed a scalable platform for its large data science group to handle massive amounts of research data. They created the AI Cloud platform where data scientists use Fargate to create Jupyter Notebook or R Studio endpoints and develop all their models.,Professional Services,Professional Services,"Market Research, Data Science",Product Development / R&D & Engineering,Fargate ; Jupyter Notebook ; R Studio endpoints ; Machine learning,"
 • Enables data scientists to create all their models on the centralized platform. 
-• Making data available to run analytics, querying, and ETL workloads.",https://youtu.be/b93-zn-DtBw?did=cr_card&trk=cr_card,Youtube
+• Making data available to run analytics, querying, and ETL workloads.",https://youtu.be/b93-zn-DtBw?did=cr_card&trk=cr_card,YouTube
 aicase-02293,Keen Eye Technologies,Accelerating Deep Learning Model Training for Digital Pathology,"Keen Eye needed to build deep learning models for analyzing large medical images (5 TB per project) in digital pathology. They migrated to Amazon SageMaker to containerize their pipeline and train models on enriched, annotated data.",Healthcare,Healthcare,"Digital Pathology, Deep Learning, Medical Imaging",Product Development / R&D & Engineering,Deep learning technology ; Amazon SageMaker ; containerization/Docker,"
 • Data scientists can work on many projects at the same time. 
 • Data scientists can run thousands of training jobs in parallel. 
 • Training is up to 30 times faster in terms of performance. 
-• Gain in cost infrastructure up to 30% (by only paying when using resources).",https://youtu.be/2XVgpMwY5iE?did=cr_card&trk=cr_card,Youtube
+• Gain in cost infrastructure up to 30% (by only paying when using resources).",https://youtu.be/2XVgpMwY5iE?did=cr_card&trk=cr_card,YouTube
 aicase-02294,Lennar,"Predictive ML Models for Pricing, Materials, and Construction Processes","Lennar struggled with data latency and quality due to siloed systems, limiting their ability to forecast business drivers. They built a Lakehouse on AWS and plan to put ML models into production using Amazon SageMaker to drive insights, predictions, and forecasts related to pricing, materials, and construction processes.",Real Estate & Construction,Real Estate & Construction,"Homebuilding, Predictive Forecasting",Operations & Supply Chain,ML models ; Amazon SageMaker,"
 • Drives insights on everything from pricing to materials to construction processes. 
 • Helps customers receive their homes quicker. 
 • Allows Lennar to be more competitive in the market. 
-• Improved quality, availability, and reduced latency by unifying data.",https://www.youtube.com/watch?v=MUNu2wFd0Yc&did=cr_card&trk=cr_card,Youtube
+• Improved quality, availability, and reduced latency by unifying data.",https://www.youtube.com/watch?v=MUNu2wFd0Yc&did=cr_card&trk=cr_card,YouTube
 aicase-02296,Luma AI,Training Large-Scale Frontier Visual Models,"Luma AI needed scalable and reliable infrastructure for training frontier visual models, which require training on about a thousand times more data than the largest LLMs. They utilized Amazon SageMaker HyperPod to run their GPU compute clusters reliably and scalably.",Technology,Technology,"Visual Models, Foundation Models",Product Development / R&D & Engineering,Amazon SageMaker HyperPod ; visual models,"
 • Delivering reliable, scalable compute. 
 • Makes training models easier and faster. 
-• Allows them to go to market quickly.",https://www.youtube.com/watch?v=EN99hrzCyqk&did=cr_card&trk=cr_card,Youtube
+• Allows them to go to market quickly.",https://www.youtube.com/watch?v=EN99hrzCyqk&did=cr_card&trk=cr_card,YouTube
 aicase-02297,Luma AI,Secure and Scalable Access to Advanced Visual Intelligence Models,"Enterprise teams (design, marketing, film production) needed access to Luma AI's purpose-built, high-quality visual models. Luma made its models available on Amazon Bedrock, allowing customers to integrate them into applications securely and scalably.",Technology,Cross-Industry,"Visual Content Creation, Generative AI",Content & Creative / Media,Luma AI models ; Amazon Bedrock,"
 • Teams are able to use the outputs produced by these models directly. 
 • Enables teams to accomplish things that are impossible to do today. 
-• Access models in a very secure and scalable environment.",https://www.youtube.com/watch?v=Oi8Pik1FCUk&did=cr_card&trk=cr_card,Youtube
+• Access models in a very secure and scalable environment.",https://www.youtube.com/watch?v=Oi8Pik1FCUk&did=cr_card&trk=cr_card,YouTube
 aicase-02298,Mapbox,Edge AI for Real-Time Driving Hazard Identification,"To ensure the safety of drivers and cargo, Mapbox uses Amazon SageMaker to train an AI model. This model is pushed to the edge (in-vehicle cameras) to run image processing. This process helps identify in real-time hazards such as speeding or tailgating.",Technology,Transportation & Logistics,"Fleet Operations, Connected Vehicles",Security & Cyber / Risk Management,Amazon SageMaker ; AI model ; Image processing,"
 • Helps identify hazards that are happening in real-time. 
-• Keeps drivers, their vehicles, and cargo safe.",https://www.youtube.com/watch?v=LFdm2Q101BY&did=cr_card&trk=cr_card,Youtube
+• Keeps drivers, their vehicles, and cargo safe.",https://www.youtube.com/watch?v=LFdm2Q101BY&did=cr_card&trk=cr_card,YouTube
 aicase-02299,MDRC,Accelerating Insight Generation using Generative AI,"MDRC, a social policy research institute, aimed to accelerate its ""insight generation process"" to better inform policy makers. They are collaborating with AWS to integrate generative AI solutions into their program evaluations.",Nonprofit & NGO,Government & Public Sector,"Policy Research, Program Evaluation",Data & Analytics,Generative AI Solutions,"
 • Accelerates the deployment and calibration of resources needed for specific projects. 
 • Time to Insight became more manageable, predictable, and flexible. 
-• Allows them to better inform policy makers.",https://www.youtube.com/watch?v=PqLI4S-lIj0&did=cr_card&trk=cr_card,Youtube
+• Allows them to better inform policy makers.",https://www.youtube.com/watch?v=PqLI4S-lIj0&did=cr_card&trk=cr_card,YouTube
 aicase-02300,Media Intelligence,Transforming Media Workflows with Generative AI,"Media companies are looking to leverage cutting-edge AI to automate workflows and enhance customer engagement. They use Amazon Bedrock and generative AI to transform content creation, localization, and advertising.","Media, Entertainment & Sports","Media, Entertainment & Sports","Content Automation, Localization",Content & Creative / Media,Amazon Bedrock ; Generative AI,"
 • Boosts efficiency and improves quality. 
 • Unlocks new avenues for creativity and personalization. 
@@ -10069,13 +10069,13 @@ aicase-02302,MYTONA LLC,ML-Powered Personalized In-Game Purchase Offer Recommend
 • Increased conversion rate three times. 
 • Revenue was boosted four times for this type of offers. 
 • Performed much better than the one without machine learning personalization. 
-• Allows to safely add new versions of models.",https://youtu.be/XUCGMzLx8wY?did=cr_card&trk=cr_card,Youtube
+• Allows to safely add new versions of models.",https://youtu.be/XUCGMzLx8wY?did=cr_card&trk=cr_card,YouTube
 aicase-02303,Nasdaq,Advanced Anti-Financial Crime Technology,"Deploying very advanced algorithms to catch criminals across the whole financial system, relying on the data-centric architecture of the cloud.",Financial Services,Financial Services,Capital Markets,Risk & Compliance,Advanced algorithms (AI/ML implied),"
-• Catch criminals across the whole financial system",https://www.youtube.com/watch?v=rxcHEIDil1s&did=cr_card&trk=cr_card,Youtube
+• Catch criminals across the whole financial system",https://www.youtube.com/watch?v=rxcHEIDil1s&did=cr_card&trk=cr_card,YouTube
 aicase-02304,Nasdaq,Natural Language Query for Financial Data Analysis (QuickSight Q),"Nasdaq adopted QuickSight Q to decrease cognitive load on data users and empower more employees to access data and answers directly from complex trading data. Q enables business users to ask questions in natural language, reducing reliance on central authority or data resources to build dashboards or extract slightly filtered data.",Financial Services,Financial Services,"Exchange Operations, Trading Data Analysis",Data & Analytics,Amazon QuickSight Q ; Amazon QuickSight,"
 • Users can get the data they need at the time they need it. 
 • Reduces friction between data producers and consumers. 
-• Sales people can now have more proactive and robust conversations with clients.",https://www.youtube.com/watch?v=BkjUSd8JK9c&did=cr_card&trk=cr_card,Youtube
+• Sales people can now have more proactive and robust conversations with clients.",https://www.youtube.com/watch?v=BkjUSd8JK9c&did=cr_card&trk=cr_card,YouTube
 aicase-02305,NCBI,Voice Technology for Information Access for People with Sight Loss,"Vision Ireland sought to deliver information and lessen isolation for people with sight loss. They launched a smart speaker project using Amazon Alexa and Amazon Lex, leveraging generative AI to build language models that grasp a wide range of possible questions.",Nonprofit & NGO,Nonprofit & NGO,"Accessibility, Smart Speakers",Customer Service,Generative artificial intelligence (AI) ; Amazon Alexa ; Amazon Lex,"
 • Helps lessen isolation for those with sight loss. 
 • Allows parents to educate their children in a secure environment. 
@@ -10086,13 +10086,13 @@ aicase-02306,Netflix,Designing Machine Learning Systems across Business Operatio
 aicase-02307,Netsmart,Enhancing Software Development Productivity with Amazon Q Developer,"Netsmart needed to enhance its software development lifecycle processes and reduce time spent on repetitive tasks. About 150 engineers use Amazon Q Developer for tasks such as code generation, code upgrades, code transformations, and unit tests.",Healthcare,Healthcare,"Software Development, Code Generation",Product Development / R&D & Engineering,Amazon Q Developer ; Generative AI,"
 • Engineers can focus on innovation and high-value tasks, rather than repetitive tasks. 
 • Helps streamline what they can deliver at a high quality, high velocity rate. 
-• Documentation feature helpful for new engineers to quickly onboard.",https://www.youtube.com/watch?v=Lbv_a3zkCuE&did=cr_card&trk=cr_card,Youtube
+• Documentation feature helpful for new engineers to quickly onboard.",https://www.youtube.com/watch?v=Lbv_a3zkCuE&did=cr_card&trk=cr_card,YouTube
 aicase-02308,Netsmart,Reducing Clinical Documentation Burden with Generative AI,"Providers in behavioral health spend about 40% of their week on documentation, contributing to burnout. Netsmart built a solution using HealthScribe and Bedrock (with Claude 2) to generate progress notes automatically from patient-provider conversations, enriched with proprietary data.",Healthcare,Healthcare,"Behavioral Health, Clinical Documentation",Operations & Supply Chain,Amazon Chime SDK ; HealthScribe ; Amazon Bedrock ; Generative AI ; Claude 2,"
 • Reduces the burden of documentation. 
 • Allows providers to spend more time working with clients. 
-• Takes the burden off Netsmart in building security aspects.",https://www.youtube.com/watch?v=6o2ILhWblyM&did=cr_card&trk=cr_card,Youtube
+• Takes the burden off Netsmart in building security aspects.",https://www.youtube.com/watch?v=6o2ILhWblyM&did=cr_card&trk=cr_card,YouTube
 aicase-02309,Novartis AG,Search and Recommendation System using Knowledge Graph for Procurement,"The Buying Engine shopping portal needed effective search and recommendations. They built search and recommendation pipelines using Elasticsearch, Neptune (as a knowledge graph), and DynamoDB. Anonymized user interaction data is captured to enhance these pipelines and understand user preferences over time.",Healthcare,Healthcare,"Procurement, Recommendation Engine",Operations & Supply Chain,Knowledge graph (Neptune) ; Elasticsearch ; recommendation pipelines,"
-• Enhances all search and recommendation pipelines to understand user preferences.",https://youtu.be/vp8oPiHN4cA?did=cr_card&trk=cr_card,Youtube
+• Enhances all search and recommendation pipelines to understand user preferences.",https://youtu.be/vp8oPiHN4cA?did=cr_card&trk=cr_card,YouTube
 aicase-02310,Phind,Intelligent Search Engine for Developers using LLMs,"Phind built a generative AI search engine to answer programmers' complicated questions precisely, moving beyond the broad or shallow results of traditional search engines. It uses LLMs fed with high-quality context, trained and run on high-performance NVIDIA GPU-powered Amazon EC2 instances.",Technology,Technology,"Software Engineering, LLM Training and Inference",Product Development / R&D & Engineering,Generative AI ; LLMs ; NVIDIA GPU–based Amazon EC2 instances ; Amazon EC2 P4d Instances ; Amazon EC2 P5 Instances ; NVIDIA A100 Tensor Core GPU ; NVIDIA H100 Tensor Core GPU ; NVIDIA’s TensorRT-LLM,"
 • Reduces the time developers take to get answers from 15 minutes or longer to 15 seconds. 
 • Reduced the time it takes to start generating answers (time to first token) by 75%. 
@@ -10101,21 +10101,21 @@ aicase-02310,Phind,Intelligent Search Engine for Developers using LLMs,"Phind bu
 aicase-02312,Rehrig Pacific,Scenario Analysis for Supply Chain Optimization using Amazon Q in QuickSight,Rehrig Pacific needed to surface edge-based data to customers and predict the impact of changes in their supply chain. They are adopting the scenario analysis capability in Amazon Q in QuickSight to automate analyst functions and predict operational outcomes.,Manufacturing,Manufacturing,"Supply Chain, Plastics Manufacturing",Operations & Supply Chain,Amazon Q in QuickSight ; scenario analysis capability,"
 • Automating analyst functions makes them five to ten times more productive. 
 • Allows customers to predict how changes will affect their operation. 
-• Enabling self-service analytics frees up Rehrig Pacific to focus on other feature-driven development.",https://www.youtube.com/watch?v=venV4nAngvo&did=cr_card&trk=cr_card,Youtube
+• Enabling self-service analytics frees up Rehrig Pacific to focus on other feature-driven development.",https://www.youtube.com/watch?v=venV4nAngvo&did=cr_card&trk=cr_card,YouTube
 aicase-02313,Remitly Inc,Generative AI Virtual Assistant for Rapid Customer Issue Resolution,"Remitly needed to solve customer problems quickly to maintain trust in cross-border payments. They deployed a virtual assistant via Amazon Bedrock, using Claude Sonnet and RAG, ensuring secure data handling with Bedrock Guardrails.",Financial Services,Financial Services,"Cross-Border Payments, Virtual Assistant",Customer Service,Amazon Bedrock ; Generative AI ; Anthropic Claude Sonnet model ; RAG workflow ; Amazon Bedrock Guardrails,"
 • Improved speed to response by 75% for customer issues. 
 • 25% of customer contacts on chat are resolved by the model. 
 • Only 3% of customers choose to go to a human associate despite having the option. 
-• Allows scaling the business and continues to drive growth.",https://www.youtube.com/watch?v=sTUF-AV7sow&did=cr_card&trk=cr_card,Youtube
+• Allows scaling the business and continues to drive growth.",https://www.youtube.com/watch?v=sTUF-AV7sow&did=cr_card&trk=cr_card,YouTube
 aicase-02314,Ricoh,Optimizing Large Language Model Training for Japanese Language Capability,"Ricoh used continuous pre-training, along with a special curriculum to avoid catastrophic forgetting, to give Japanese capability to an existing English LLM. The training was conducted using AWS Trainium, settling on a 256-node setting as standard. The resulting Japanese baseline LLM allows Ricoh to develop customer-dedicated LLMs faster and with fewer resources.",Technology,Technology,Large Language Model (LLM) Development,Product Development / R&D & Engineering,AWS Trainium ; LLM ; continuous pre-training,"
 • Expected 50% reduction of training cost. 
 • Expected 25% shorter training time. 
 • Enables shorter time to develop customer dedicated LLMs. 
-• Requires a smaller amount of resource for developing customer LLMs.",https://www.youtube.com/watch?v=iCCChDRSUuI&did=cr_card&trk=cr_card,Youtube
+• Requires a smaller amount of resource for developing customer LLMs.",https://www.youtube.com/watch?v=iCCChDRSUuI&did=cr_card&trk=cr_card,YouTube
 aicase-02316,Saint Louis University,"Q&A Chatbot for Student and Faculty Information (Building Hours, Dining Options)","St. Louis University needed a multi-modal way to answer student/faculty questions (e.g., building hours, dining options). They deployed the QnA chatbot powered by Amazon Lex, utilizing Elasticsearch for real-time scoring and Comprehend to hone in on relevant keywords.",Education,Education,"Higher Education, Conversational Interface",Customer Service,QnA chatbot ; Amazon Lex ; Elasticsearch ; Amazon Comprehend,"
 • Allows content owners to rapidly enter new questions. 
 • Ensures users get updated data immediately (e.g., menu changes). 
-• Gives content owners control by ensuring the bot focuses on key terms and doesn't answer irrelevant questions.",https://youtu.be/LxeSC3-xMlk?did=cr_card&trk=cr_card,Youtube
+• Gives content owners control by ensuring the bot focuses on key terms and doesn't answer irrelevant questions.",https://youtu.be/LxeSC3-xMlk?did=cr_card&trk=cr_card,YouTube
 aicase-02318,Sencrop,ML-Powered Hyperlocalized Microclimate Forecasting and Sustainable Agriculture,"Sencrop needed to enhance the accuracy of weather predictions to help farmers implement sustainable practices. Their microclimate app gathers 1.5 billion data points daily from forecasts/sensors using Amazon EMR and applies ML to create accurate, hyperlocalized forecasts.",Agriculture,Agriculture,"Precision Agriculture, Sustainable Farming, Weather Forecasting",Data & Analytics,ML (Machine Learning) ; Amazon EMR,"
 • 76% of respondents declared Sencrop helped them in their agro-environmental practices. 
 • 90% of vine and potato growers reported reduced chemical spray treatment frequency. 
@@ -10125,32 +10125,32 @@ aicase-02318,Sencrop,ML-Powered Hyperlocalized Microclimate Forecasting and Sust
 aicase-02319,Smugmug,Increasing Data Modeling Productivity and Predictive Analytics with Amazon Q Developer,"SmugMug needed to glean business insights (e.g., pricing, product offerings) from application data using data models. They used Amazon Q Developer to increase the efficiency of the data team, helping them generate Redshift data tables and build an ML model for predictive analytics.",Technology,Technology,"Business Analytics, Data Modeling",Data & Analytics,Amazon Q Developer ; Machine learning model ; Predictive analytics,"
 • Increased developer productivity in some cases by as much as a hundred percent. 
 • Allows developers to work in unfamiliar code without having to get out of flow state. 
-• Enables predictive analytics of what to expect for each individual customer.",https://www.youtube.com/watch?v=d3H1_Bs_zIc&did=cr_card&trk=cr_card,Youtube
+• Enables predictive analytics of what to expect for each individual customer.",https://www.youtube.com/watch?v=d3H1_Bs_zIc&did=cr_card&trk=cr_card,YouTube
 aicase-02320,Snaplogic,Generative AI for Resolving Contract Mismatches and Revenue Loss,"A customer of SnapLogic faced a major problem with contract mismatches between their systems and customer contracts, resulting in revenue loss. They used SnapLogic's generative integration capabilities powered by Amazon Bedrock to resolve this issue rapidly.",Technology,Cross-Industry,Contract Management,Legal & Compliance,SnapLogic generative integration capabilities ; Amazon Bedrock ; Generative AI,"
 • On track to save them tens of millions of euro of revenue that they were otherwise losing. 
-• Able to deliver a completed project literally in a day.",https://www.youtube.com/watch?v=3c3ROqK32SQ&did=cr_card&trk=cr_card,Youtube
+• Able to deliver a completed project literally in a day.",https://www.youtube.com/watch?v=3c3ROqK32SQ&did=cr_card&trk=cr_card,YouTube
 aicase-02321,"Social Solutions Global, Inc. (Bonterra Company)",Generative AI RAG Model for Internal Knowledge Lookup,"Bonterra needed a way for employees (support, sales, marketing) to quickly find information about the companies they work with. They implemented an Amazon Q RAG model, which ingests data, augments it with AI, and generates an output.",Nonprofit & NGO,Nonprofit & NGO,Internal Operations,Human Resources (HR),Amazon Q model ; RAG model ; Artificial intelligence,"
 • Resulted in an increase in SLAs (Service Level Agreements). 
 • Provided better, quicker answers to questions customers expect from the support organization. 
-• Quicker way new sales representatives can understand the breadth of offerings.",https://www.youtube.com/watch?v=eN33ayPYE1A&did=cr_card&trk=cr_card,Youtube
+• Quicker way new sales representatives can understand the breadth of offerings.",https://www.youtube.com/watch?v=eN33ayPYE1A&did=cr_card&trk=cr_card,YouTube
 aicase-02322,Support Zebra,Agent Empowerment and QA for Client Experience,"Utilizing Amazon Bedrock with GenAI to empower team members and agents in providing outsourced services, and using Contact Lens for call quality assurance.",Technology,Technology,Contact Center,Agent Assist,Amazon Bedrock ; Gen AI ; Contact Lens,"
 • Agency efficiency has gone up 15+%
 • Cost to implement has dropped by close to 70%","â€¢ https://aws.amazon.com/ai/generative-ai/use-cases/
-â€¢ https://www.youtube.com/watch?v=5SaEY-wjfc0",Youtube
+â€¢ https://www.youtube.com/watch?v=5SaEY-wjfc0",YouTube
 aicase-02323,Swimming Australia,Relay Team Selection and Scenario Exploration,"Application gathers historical race results and uses machine learning to suggest potential scenarios for relay team selection, including the order of swimmers for heats and finals. The ML model predicts individual swim times, team standing, and suggests optimal lineup.","Media, Entertainment & Sports","Media, Entertainment & Sports",Swimming,Forecasting & Prediction,Machine Learning ; Amazon SageMaker ; AWS Glue ; AWS Step Functions ; Amazon Athena ; AWS Lambda,"
 • Enable exploration of scenarios around swimmer order
 • Application makes suggestions on potential scenarios
-• Provide greater insight and depth of thinking for selection",https://www.youtube.com/watch?v=dM5kJ-9MGbk&did=cr_card&trk=cr_card,Youtube
+• Provide greater insight and depth of thinking for selection",https://www.youtube.com/watch?v=dM5kJ-9MGbk&did=cr_card&trk=cr_card,YouTube
 aicase-02324,Swimming Australia,Automating Performance Benchmarking,"Automating the manual and labor-intensive process of performance benchmarking (previously 42 tabs of an Excel worksheet) using large amounts of competition race data from the custom race analysis system, SPARTA.","Media, Entertainment & Sports","Media, Entertainment & Sports",Swimming,Process Automation,Custom race analysis system (SPARTA) ; Analytics/ML capabilities (implied),"
 • Coaches enabled to self-service data
-• Saves immense amount of time and labor compared to manual spreadsheets",https://youtu.be/1VcpCVe3tLQ?did=cr_card&trk=cr_card,Youtube
+• Saves immense amount of time and labor compared to manual spreadsheets",https://youtu.be/1VcpCVe3tLQ?did=cr_card&trk=cr_card,YouTube
 aicase-02326,Syngenta,Conversational Enablement for Product Placement,"Created Cropwise AI, built on Amazon Bedrock/Anthropic, to provide conversational enablement for product placement and complex processing of decisions (weather, soils, inputs) for optimal decisions.",Agriculture,Agriculture,Not specified,Decision Support,Cropwise AI ; Amazon Bedrock ; Large Language Models,"
 • Increase speed to market by five times (5x improvement)
 • Reduces the input the grower had to put into their land
 • Maximizes yield",https://www.synchronized.tv/news/aws-media-intelligence-launch-partner,Synchronized
 aicase-02328,The Weather Company,Hyper-Personalized Forecast Comprehension,"Using Generative AI to describe weather forecasts, context, and inputs in a way that is hyper-personalized to the audience.","Media, Entertainment & Sports","Media, Entertainment & Sports",Weather Forecasting,Personalization,Generative AI,"
 • Hit different parts of the market segments with more accurate information
-• Information is just in time for their use case",https://www.youtube.com/watch?v=pmPZqbJkBhw&did=cr_card&trk=cr_card,Youtube
+• Information is just in time for their use case",https://www.youtube.com/watch?v=pmPZqbJkBhw&did=cr_card&trk=cr_card,YouTube
 aicase-02330,UHB,Streamlining News Script Production,"Automating news article creation by performing OCR on press release PDFs, storing text, and using Amazon Bedrock (Claude 2.1) to output model scripts for reporters to edit. Also simplifies searching releases using keywords.","Media, Entertainment & Sports","Media, Entertainment & Sports",Broadcasting,Content Creation,Generative AI ; Amazon Bedrock (Claude 2.1) ; OCR,"
 • Automatically generate an article in about 2 minutes
 • Produce 100–120 additional pieces of content per month
@@ -10160,19 +10160,19 @@ aicase-02331,Veolia Environment,Secure GPT Applications and Employee Augmentatio
 • Support and augment employees' expertise
 • Accelerate the development of new ecological solutions
 • Users can switch models without restarting the discussion
-• Free time for more important tasks",https://youtu.be/yg7HSs2sFgY?did=cr_card&trk=cr_card,Youtube
+• Free time for more important tasks",https://youtu.be/yg7HSs2sFgY?did=cr_card&trk=cr_card,YouTube
 aicase-02332,Veolia Environnement,Predictive Maintenance for Water Filtering Membranes,Using AWS ML services (SageMaker and DeepAR) to anticipate the timing of maintenance events and predict aging of water filtering membranes based on historical data.,Energy & Utilities,Energy & Utilities,Water Treatment,Predictive Maintenance,AWS machine learning services (Amazon SageMaker ; Amazon DeepAR algorithm),"
 • Anticipate maintenance weeks or days in advance
 • Prevent excessive energy and chemical consumption
 • Prevent emergency shutdown
-• Optimize water storage capacity",https://www.youtube.com/watch?v=mwA9dc0PHjA&did=cr_card&trk=cr_card,Youtube
+• Optimize water storage capacity",https://www.youtube.com/watch?v=mwA9dc0PHjA&did=cr_card&trk=cr_card,YouTube
 aicase-02334,Volkswagen,Mapping Job Descriptions to Job Roles (HR/IS implementation),"Using the Amazon Q app to map 4,000 unique job descriptions to 3,200 job roles for a new HR IS system implementation.",Automotive,Automotive,Not specified,HR & Recruiting,Amazon Q app,"
-• Achieve the implementation due date",https://www.youtube.com/watch?v=dTEh2HD2ldo&did=cr_card&trk=cr_card,Youtube
+• Achieve the implementation due date",https://www.youtube.com/watch?v=dTEh2HD2ldo&did=cr_card&trk=cr_card,YouTube
 aicase-02335,"Zillow, Inc.",Speech Analytics and Quality Control,"Analyzing large volumes of customer phone conversation data (speech data) using AWS Transcribe (speech-to-text), Amazon Comprehend (sentiment), and custom NLP models for insights, quality control, and PII reduction.",Real Estate & Construction,Real Estate & Construction,Contact Center,Analytics & Business Intelligence,AWS Transcribe ; Amazon Comprehend ; Customized NLP models,"
-• Better quality control",https://youtu.be/twsGnp2X-aQ?did=cr_card&trk=cr_card,Youtube
+• Better quality control",https://youtu.be/twsGnp2X-aQ?did=cr_card&trk=cr_card,YouTube
 aicase-02336,"Zillow, Inc.",Near Real-Time NLP Pipeline for Customer Conversations,Running transformer-based deep learned machine learning models on customer phone conversations in a near real-time pipeline to generate insights/predictions for customers and agents.,Real Estate & Construction,Real Estate & Construction,Contact Center,Forecasting & Prediction,AWS Transcribe (with redaction API) ; Machine Learning models (Transformer-based) ; AWS Batch,"
 • Saving up to 75% of the compute cost
-• Get valuable insights in near real time (within five minutes of the call ending)",https://youtu.be/w-qGSyzDL6g?did=cr_card&trk=cr_card,Youtube
+• Get valuable insights in near real time (within five minutes of the call ending)",https://youtu.be/w-qGSyzDL6g?did=cr_card&trk=cr_card,YouTube
 aicase-02337,Ally Financial,Conversational AI for Customer Service Call Summarization,"Using conversational AI (Azure OpenAI Service) to automatically generate summaries of customer service calls in real-time, allowing associates to focus on human engagement rather than manual tasks.",Financial Services,Financial Services,Banking,Agent Assist,Generative AI ; Azure OpenAI Service ; Microsoft Azure,"
 • Reduce manual tasks for customer service associates
 • Free up time for human engagement with customers
@@ -10180,118 +10180,118 @@ aicase-02337,Ally Financial,Conversational AI for Customer Service Call Summariz
 • Capture key details automatically",https://www.microsoft.com/en/customers/story/1715820133841482699-ally-azure-banking-en-united-states,Microsoft
 aicase-02338, Liberty Latin America,Analyzing Customer Interactions (Agent Assist & Root Cause Analysis),Using generative AI and Amazon Bedrock to analyze customer interactions (transcripts/recordings) to understand why customers are calling and determine root causes without human bias or the need for agents to summarize calls.,Telecommunications,Telecommunications,"Telecommunications, Contact Center",Analytics & Business Intelligence,Generative AI ; Amazon Bedrock ; LLMs,"
 • Understand root cause of customer issues without human bias
-• Eliminate agent time spent summarizing calls",https://www.youtube.com/watch?v=iIQyHwZu5ao,Youtube
+• Eliminate agent time spent summarizing calls",https://www.youtube.com/watch?v=iIQyHwZu5ao,YouTube
 aicase-02339,Adikteev,ROI Analysis of Advertising Campaigns,Running machine learning models in Spark applications on EKS clusters to process large data volumes (120 TB) for prediction metrics and raw user data to protect quality of service.,Technology,Technology,Advertising Technology,Analytics & Business Intelligence,Machine Learning models ; Spark applications ; EKS cluster,"
 • Ensure resilience (job failure will not prevent other jobs)
 • Ensure quality of service
-• Cost-efficient (using spot instances)",https://www.youtube.com/watch?v=az-C2c33trQ,Youtube
+• Cost-efficient (using spot instances)",https://www.youtube.com/watch?v=az-C2c33trQ,YouTube
 aicase-02340,Amazon.com,Identifying Products and Recommending Appropriate Packaging,Machine learning identifies products and recommends the appropriate packaging to automate and eliminate waste.,Retail & E-commerce,Retail & E-commerce,E-commerce,Operational Efficiency,Machine learning,"
 • Reduce outbound packaging size by 33%
 • Eliminate over 900,000 tonnes of packaging (since 2015)
 • Improves efficiency
-• Supports sustainability commitments",https://www.youtube.com/watch?v=32Qb-kYA6eI,Youtube
+• Supports sustainability commitments",https://www.youtube.com/watch?v=32Qb-kYA6eI,YouTube
 aicase-02342,Capital One,"Comprehensive Logging, Monitoring, and AI/ML Capabilities","Leveraging Amazon CloudWatch for logs, enhanced by AWS Config and AWS CloudTrail to improve security and manage data at a much larger scale to unlock the power of AI and ML.",Financial Services,Financial Services,Banking,Security & Compliance,Amazon CloudWatch ; AWS Config ; AWS CloudTrail ; AI and ML,"
 • Enhance security
 • Manage data at a larger scale
-• Unlock the power of AI and ML",https://www.youtube.com/watch?v=HH62Xwy1gR0,Youtube
+• Unlock the power of AI and ML",https://www.youtube.com/watch?v=HH62Xwy1gR0,YouTube
 aicase-02343,Carrier,Reducing Spoilage in Cold Chain,Making improvements in reducing the amount of spoilage in the Cold Chain. The Lynx platform uses IoT and refrigeration data to provide an intelligent cold chain and offer insights into gaps and issues.,Manufacturing,Manufacturing,"Refrigeration, Food & Beverage",Supply Chain,Lynx platform (IoT ; ML implied) ; AWS technology,"
 • Make improvements in the amount of spoilage
 • Provide a more intelligent cold chain
-• Provide insights around where the gaps and issues are",https://www.youtube.com/watch?v=nnzWyU8I6hA,Youtube
+• Provide insights around where the gaps and issues are",https://www.youtube.com/watch?v=nnzWyU8I6hA,YouTube
 aicase-02344,Clifford Chance,Compliance Agent/Risk Identification for Lawyers,"A Copilot Agent works alongside lawyers to autonomously identify risks, confirm document inclusion, and notify stakeholders of next steps.",Financial Services,Financial Services,Legal Services,Risk & Compliance,Copilot Agent,"
 • Allow team to deal with much more complex issues
-• Ensure risk identification",https://www.youtube.com/watch?v=Iqzqp69QCKI,Youtube
+• Ensure risk identification",https://www.youtube.com/watch?v=Iqzqp69QCKI,YouTube
 aicase-02345,Continental,Continental's Computer Vision Algorithm Development,"Continental is developing computer vision algorithms for autonomous driving. A significant part of this process involves finding the right images from petabytes of data for training their machine learning experts. By leveraging generative AI technologies in collaboration with AWS, they have reduced the time for these data-finding tasks from hours to minutes. This has resulted in a 40% reduction in operational costs and a 10% improvement in algorithm accuracy.",Automotive,Automotive,Autonomous Driving,Computer Vision,Computer vision algorithms ; Generative AI technologies ; AWS solutions,"
 • Reduce operational costs by around 40%
 • Improve algorithm accuracy by 10%
 • Reduce task time from hours to a couple of minutes
-• Drive development forward",https://www.youtube.com/watch?v=OuWJBGCQx0Y,Youtube
+• Drive development forward",https://www.youtube.com/watch?v=OuWJBGCQx0Y,YouTube
 aicase-02347,Deutsche Telekom,LLM Applications for Natural Customer Responses (Digital Agents),"Building LLM applications to create more natural responses for customers via digital agents, aiming to control risky behavior/hallucinations and manage cost.",Telecommunications,Telecommunications,Telecommunications,Customer Service,LLM applications ; Amazon Bedrock ; Amazon SageMaker JumpStart ; Inferentia 2 instances,"
 • Achieve better non-functional performance (up to 25% throughput/latency improvement)
-• Inferentia 2 chips were 20% more cost efficient than G5 equivalent instances",https://www.youtube.com/watch?v=gyhy4a36KWQ,Youtube
+• Inferentia 2 chips were 20% more cost efficient than G5 equivalent instances",https://www.youtube.com/watch?v=gyhy4a36KWQ,YouTube
 aicase-02349,Electronic Arts,Automated Unit Test Generation,"Electronic Arts (EA) enhances gameplay for millions of players with Amazon Bedrock. EA uses a tool for developers that automatically generates boilerplate unit tests, allowing them to focus on more complex test scenarios.","Media, Entertainment & Sports","Media, Entertainment & Sports",Gaming,Software Development,Generative AI ; Amazon Bedrock ; Titan foundational model,"
 • Improve efficiency in development process
-• Shift responsibility left for developers to ensure proper testing",https://www.youtube.com/watch?v=NJ6iE7ImENM,Youtube
+• Shift responsibility left for developers to ensure proper testing",https://www.youtube.com/watch?v=NJ6iE7ImENM,YouTube
 aicase-02350,Electronic Arts,Automated Test Scenario Generation,"Electronic Arts (EA) enhances gameplay for millions of players with Amazon Bedrock. EA uses a tool for quality engineers that generates test scenarios directly from business requirements in a Jira ticket, improving efficiency and test coverage.","Media, Entertainment & Sports","Media, Entertainment & Sports",Gaming,Quality Assurance,Generative AI ; Amazon Bedrock ; Titan foundational model,"
 • Improve efficiency and quality
 • Enhance reliability of applications
-• Test scenarios cover a wide range of real-time scenarios",https://www.youtube.com/watch?v=NJ6iE7ImENM,Youtube
+• Test scenarios cover a wide range of real-time scenarios",https://www.youtube.com/watch?v=NJ6iE7ImENM,YouTube
 aicase-02351,Electronic Arts,In-Game Player Chat Support,"Electronic Arts (EA) enhances gameplay for millions of players with Amazon Bedrock. EA uses an in-game help application that uses generative AI to provide players with a seamless, conversational chat experience to get their questions answered without leaving the game.","Media, Entertainment & Sports","Media, Entertainment & Sports",Gaming,Customer Service,Generative AI ; Amazon Bedrock ; Titan foundational model,"
 • Reduce response times
-• Drastically improve player experience within the games",https://www.youtube.com/watch?v=NJ6iE7ImENM,Youtube
+• Drastically improve player experience within the games",https://www.youtube.com/watch?v=NJ6iE7ImENM,YouTube
 aicase-02352,Electronic Arts,Social Media Insights,"Electronic Arts (EA) enhances gameplay for millions of players with Amazon Bedrock. EA uses an application for business and game studio teams that analyzes social media posts and comments to provide summaries and sentiment analysis, helping them gather player feedback efficiently.","Media, Entertainment & Sports","Media, Entertainment & Sports",Gaming,Analytics & Business Intelligence,Generative AI ; Amazon Bedrock ; Titan foundational model,"
 • Get social media insights
-• Summary of feedback from comments/posts",https://www.youtube.com/watch?v=NJ6iE7ImENM,Youtube
+• Summary of feedback from comments/posts",https://www.youtube.com/watch?v=NJ6iE7ImENM,YouTube
 aicase-02355,First Orion,Improved Operational Efficiency with Response Times Leveraging Amazon Q,"First Orion uses Amazon Q to create an internal chat application that allows employees, like cloud operators, to ""talk to their data"" using natural language. Amazon Q connects to various data silos such as S3, Confluence, and ServiceNow, crawls the information, and provides indexed answers to user questions, simplifying the process of finding details. Action-Oriented AI Plugins: Amazon Q can also use plugins to take action in other systems. For example, a user can ask Q to create a ticket in Jira or ServiceNow directly from the chat interface, removing the friction of switching between applications",Telecommunications,Telecommunications,Telecom Software,Data Analysis,Amazon Q app ; LLM,"
-• Simplify troubleshooting (don't have to chase details)",https://www.youtube.com/watch?v=cczJb4heExQ,Youtube
+• Simplify troubleshooting (don't have to chase details)",https://www.youtube.com/watch?v=cczJb4heExQ,YouTube
 aicase-02356,Formula 1,Real-Time Pit Strategy Prediction for Fan Engagement,"Formula 1 sought to make the sport more engaging by sharing engineering insights with fans. They developed the ""pit strategy battle"" insight, using two ML models (on-track and pit-lane) developed and deployed on Amazon SageMaker. The system predicts key moments like the ""undercut"" pit maneuver and its probability in real time.","Media, Entertainment & Sports","Media, Entertainment & Sports","Auto Racing, Sports Broadcast",Content & Creative / Media,Machine learning algorithms/models ; Amazon SageMaker,"
 • Makes the sport more entertaining, engaging, and immersive for the fan. 
 • Tells the viewers about what's going to happen and the probability of the outcome. 
 • Educates fans about ""off-the-ball action"". 
-• The model has been very, very accurate.",https://www.youtube.com/watch?v=9OHrlu-cX5g,Youtube
+• The model has been very, very accurate.",https://www.youtube.com/watch?v=9OHrlu-cX5g,YouTube
 aicase-02357,Fujitsu,"Customer, Agent, and Manager Assist","Fujitsu plans to use Generative AI to introduce ""customer-assist, agent-assist and manager-assist use cases"". This involves providing tools to automate and optimize the response and resolution of customer issues.",Telecommunications,Telecommunications,Contact Center,Agent Assist,Generative AI ; Amazon Connect,"
-• Optimize the response and resolution of issues",https://www.youtube.com/watch?v=W4EALUL9xbY,Youtube
-aicase-02358,Fundbox,Managing Credit Lines,Using AI and machine learning to help customers manage their credit lines.,Financial Services,Financial Services,Financial Services,Decision Support,AI and machine learning,• Help customers manage their credit lines,https://www.youtube.com/watch?v=Qz8uXtDC1bY,Youtube
+• Optimize the response and resolution of issues",https://www.youtube.com/watch?v=W4EALUL9xbY,YouTube
+aicase-02358,Fundbox,Managing Credit Lines,Using AI and machine learning to help customers manage their credit lines.,Financial Services,Financial Services,Financial Services,Decision Support,AI and machine learning,• Help customers manage their credit lines,https://www.youtube.com/watch?v=Qz8uXtDC1bY,YouTube
 aicase-02359,HBO Max,Anomaly Detection for Cloud Security,"HBO Max uses an architecture where services like Amazon GuardDuty ingest logs and use a machine learning model to identify anomalies, such as EC2 instances communicating with malicious IPs. These detections trigger automated remediation actions.","Media, Entertainment & Sports","Media, Entertainment & Sports",Streaming Services,Security & Compliance,GuardDuty (Machine Learning model),"
-• Detect malicious activities",https://www.youtube.com/watch?v=uOSpWdAyrZo,Youtube
+• Detect malicious activities",https://www.youtube.com/watch?v=uOSpWdAyrZo,YouTube
 aicase-02360,Honda,Honda Redefines the EV Charging Experience,"Honda uses Amazon Bedrock to personalize the experience for Electric Vehicle (EV) users. By collecting data on vehicle battery status, charging spot availability, and a user's daily behavior history, they aim to improve the charging experience.",Automotive,Automotive,Electric Vehicles,Customer Experience,Amazon Bedrock ; AWS IoT Core,"
 • Personalize EV user's experience
 • Improve EV charging user experience
-• Increase developmental speed",https://www.youtube.com/watch?v=NgZGiLX5YEc,Youtube
+• Increase developmental speed",https://www.youtube.com/watch?v=NgZGiLX5YEc,YouTube
 aicase-02361,Indigo Carbon,Indigo Carbon's Data Inference,Indigo Carbon leverages existing satellite data from organizations like NASA to infer information about farming operations on individual fields. This inference is used as part of a larger model-driven process to generate carbon credits for farmers practicing regenerative agriculture. Using data to infer real-world conditions is a common application of AI and machine learning.,Agriculture,Agriculture,Regenerative Agriculture,Data Analysis,ML Models ; Satellites ; AWS services (S3 ; RDS ; Lambda functions ; AWS Fargate),"
-• Help farmers transition to regenerative agriculture",https://www.youtube.com/watch?v=FfSNnH2bbNc,Youtube
+• Help farmers transition to regenerative agriculture",https://www.youtube.com/watch?v=FfSNnH2bbNc,YouTube
 aicase-02362,Loft Orbital,Onboard Data Processing,"AI allows customers to deploy their own AI applications directly on satellites. This enables the processing of data like Earth Observation or RF data ""at the edge,"" meaning on the satellite itself. This is crucial because satellites can only communicate with ground stations intermittently (e.g., every 45-90 minutes). AI models can pattern match, detect features, and extract meaningful insights, transforming large datasets into lightweight, transferable information that can be sent in real time",Technology,Technology,"Satellite Technology, Earth Observation",Edge Computing,AI applications/models ; Compute resources (GPUs) ; Cloud-like infrastructure,"
-• Transmit meaningful information in real time",https://www.youtube.com/watch?v=lGtTnFlI6yA,Youtube
+• Transmit meaningful information in real time",https://www.youtube.com/watch?v=lGtTnFlI6yA,YouTube
 aicase-02363,Loft Orbital,AI for Software Development and Quality Assurance,"The company uses GitHub Copilot to help its development teams write better and faster code, which they describe as ""transformational"". AI solutions are also used for quality assessment and to test software more extensively, helping maintain high-quality standards.",Technology,Technology,"Satellite Technology, Earth Observation, Development",Quality Assurance,AI solutions,"
-• Increase ability to test software base more extensively",https://www.youtube.com/watch?v=lGtTnFlI6yA,Youtube
+• Increase ability to test software base more extensively",https://www.youtube.com/watch?v=lGtTnFlI6yA,YouTube
 aicase-02364,Loft Orbital,AI for Fleet Management at Scale,"As Loft Orbital launches more spacecraft, the complexity of operating the fleet and the amount of data generated increases. AI helps streamline processes and will be critical for scaling operations efficiently",Technology,Technology,"Satellite Technology, Earth Observation",Operational Efficiency,AI solutions,"
 • Help scale operations
-• Streamline entire processes",https://www.youtube.com/watch?v=lGtTnFlI6yA,Youtube
+• Streamline entire processes",https://www.youtube.com/watch?v=lGtTnFlI6yA,YouTube
 aicase-02365,Lonely Planet,Lonely Planet cut itinerary generation costs by 80% using Amazon Bedrock,"Travel Itinerary Generation: Lonely Planet uses Amazon Bedrock with a large language model to create new travel itineraries and experiences. The process involves three steps:
 1. Extracting points of interest from their existing content.
 2. Bringing those points together into a unique experience.
 3. Assembling it all into a geospatially possible itinerary. This generative AI adoption has enabled them to develop thousands of itineraries at 80% less cost than manual curation.",Hospitality & Travel,Hospitality & Travel,Publishing,Content Creation,GenAI ; Amazon Bedrock ; Anthropic's Claude-2 ; RAG,"
 • Cut itinerary generation costs by 80%
 • Develop thousands of experiences and itineraries
-• Writers are freed up to focus on new content",https://www.youtube.com/watch?v=ecLCFxDlVNI,Youtube
+• Writers are freed up to focus on new content",https://www.youtube.com/watch?v=ecLCFxDlVNI,YouTube
 aicase-02367,McGees Property ,McGees Property use of Copilot,"McGees Property uses Copilot to summarize training sessions, plan events by creating run sheets, and stay updated on market trends in minutes instead of hours. It also helps lawyers quickly summarize and compare contracts or review advice from old files without manually digging through reports. This takes laborious tasks out of their daily work, allowing them to focus on interpreting information and providing advice",Real Estate & Construction,Real Estate & Construction,Not specified,Knowledge Management,Copilot,"
 • Summarise training sessions
 • Communicate summaries to the wider team
-• Reference back to summaries at any time",https://www.youtube.com/watch?v=b8Yzf7Ex-wE,Youtube
+• Reference back to summaries at any time",https://www.youtube.com/watch?v=b8Yzf7Ex-wE,YouTube
 aicase-02368,Moderna,Vaccine Development & Manufacturing,Moderna utilizes data and ML not only to speed up vaccine development but also to scale its manufacturing capacity to meet demand.,Healthcare,Healthcare,Pharmaceuticals,Research & Development,Data and ML,"
 • Accelerate vaccine development
-• Scale manufacturing capacity to meet demand",https://www.youtube.com/watch?v=32Qb-kYA6eI,Youtube
+• Scale manufacturing capacity to meet demand",https://www.youtube.com/watch?v=32Qb-kYA6eI,YouTube
 aicase-02369,Motive,Enhancing Fleet Safety and Driver Behavior Analysis,"Motive uses an AI Dashcam and a suite of products to reduce speeding, collisions, and other unsafe driving behaviors. They use Amazon Redshift to hold terabytes of raw vehicle message data and are able to perform detections on a sooner cadence.",Technology,Automotive,Fleet Management,Risk & Compliance,AI Dashcam ; suite products,"
 • Greatly reduce speeding occurrences
 • Greatly reduce collisions and accidents
-• Greatly reduce other unsafe driving behavior",https://www.youtube.com/watch?v=_SUfwOEcVzQ,Youtube
+• Greatly reduce other unsafe driving behavior",https://www.youtube.com/watch?v=_SUfwOEcVzQ,YouTube
 aicase-02371,Salary Overflow,Salary Predictions,"The Salary Overflow application has plans to integrate Amazon SageMaker to build machine learning models. The goal is to use these models to make salary predictions, providing users with hard data to help them negotiate their salaries once the user base reaches a certain size.",Technology,Financial Services,Fintech,Forecasting & Prediction,Amazon SageMaker ; machine-learning models,"
-• Give people hard data they can use to help negotiate salary",https://www.youtube.com/watch?v=Xi6tDqctLsY,Youtube
+• Give people hard data they can use to help negotiate salary",https://www.youtube.com/watch?v=Xi6tDqctLsY,YouTube
 aicase-02372,Salesforce,Customer 360 with Salesforce Genie,"Salesforce's Genie platform uses AWS big data services to create real-time, unified customer profiles from vast amounts of data. It integrates with Amazon SageMaker, allowing data scientists to build ML models on harmonized customer data without creating copies (a ""zero copy"" approach), which can then be used to enrich the customer experience.",Technology,Technology,CRM,Data Management,Salesforce Genie ; AWS platform ; ML model creation ; Tableau,"
 • Democratize data for business users
-• Enrich entire 360 view of the customer",https://www.youtube.com/watch?v=9hUBd8OrDgA,Youtube
+• Enrich entire 360 view of the customer",https://www.youtube.com/watch?v=9hUBd8OrDgA,YouTube
 aicase-02374,SKF,Predictive Maintenance and Machine Reliability,"Reinventing machine reliability and predictive maintenance for customers using a simple, affordable, automated monitoring system. Used for high-value use cases like predictive maintenance.",Manufacturing,Manufacturing,Industrial Machinery,Predictive Maintenance,AI/ML (implied) ; AWS purpose-built industrial services (AWS IoT TwinMaker ; Amazon Lookout for Vision ; Amazon Monitron),"
-• Reinvent machine reliability and predictive maintenance",https://www.youtube.com/watch?v=nnzWyU8I6hA,Youtube
+• Reinvent machine reliability and predictive maintenance",https://www.youtube.com/watch?v=nnzWyU8I6hA,YouTube
 aicase-02375,Sportsbet,Data-Driven Decision Making at Sportsbet,"The betting company Sportsbet uses machine learning, with over 20 models in production, to drive product innovation, personalized generosity, and its approach to responsible gambling. They aim for ""ubiquitous ML"" and automated decision-making to move beyond human-driven analytics.","Media, Entertainment & Sports","Media, Entertainment & Sports",Betting/Gambling,Decision Support,Machine learning ; Streaming analytics/real time automated decisioning technologies,"
-• Over 20 models currently in production",https://www.youtube.com/watch?v=32Qb-kYA6eI,Youtube
-aicase-02376,Squire Technologies,Fades and Family on the Cutting Edge,"Predictive Haircuts: Squire Technologies is developing an intelligent AI and machine learning platform on AWS to predict the optimal time for a person to get a haircut, helping barbers secure more consistent revenue.",Telecommunications,Telecommunications,Software Development,Forecasting & Prediction,Intelligent AI and machine learning platform ; AWS,Not specified,https://www.youtube.com/watch?v=5q5npsu4Ews,Youtube
+• Over 20 models currently in production",https://www.youtube.com/watch?v=32Qb-kYA6eI,YouTube
+aicase-02376,Squire Technologies,Fades and Family on the Cutting Edge,"Predictive Haircuts: Squire Technologies is developing an intelligent AI and machine learning platform on AWS to predict the optimal time for a person to get a haircut, helping barbers secure more consistent revenue.",Telecommunications,Telecommunications,Software Development,Forecasting & Prediction,Intelligent AI and machine learning platform ; AWS,Not specified,https://www.youtube.com/watch?v=5q5npsu4Ews,YouTube
 aicase-02379,Ticketek,Personalized Customer Offers,"Ticketek uses data and personalization to provide relevant, targeted offers to its 16 million customers. The platform, built with AWS, serves personalized event recommendations and has led to an immediate increase in traffic and conversions.","Media, Entertainment & Sports","Media, Entertainment & Sports",Ticketing,Personalization,Data and personalization (AI/ML implied),"
 • Provide relevant targeted offers
 • Deliver better customer experiences
-• Immediate uplift in traffic and conversions from the newsletter",https://www.youtube.com/watch?v=32Qb-kYA6eI,Youtube
+• Immediate uplift in traffic and conversions from the newsletter",https://www.youtube.com/watch?v=32Qb-kYA6eI,YouTube
 aicase-02381,Toyota,Real-Time Pit Stop Decision Making and Race Scenario Simulation,Uses images from the track to decide in real-time whether to make a pit stop when the car is over two kilometers away. Also uses machine learning to simulate various race scenarios.,Automotive,Automotive,Automotive Racing,Decision Support,Machine learning,"
 • Enables speed in business decision making
-• Helps them to compete better",https://www.youtube.com/watch?v=32Qb-kYA6eI,Youtube
+• Helps them to compete better",https://www.youtube.com/watch?v=32Qb-kYA6eI,YouTube
 aicase-02383,Unilever,Marketing Brief Automation Copilot agents,"Unilever is leveraging Copilot to transform the manual process of creating a marketing brief. A Copilot agent can automatically gather relevant content from various data sources, create a first draft of the brief, and share it with stakeholders for review in a process they call ""Smart Briefing"".",Manufacturing,Manufacturing,Marketing,Process Automation,Copilot,"
-• Transform a largely manual part of the marketing process",https://www.youtube.com/watch?v=Iqzqp69QCKI,Youtube
+• Transform a largely manual part of the marketing process",https://www.youtube.com/watch?v=Iqzqp69QCKI,YouTube
 aicase-02384,Unlimited Tomorrow,Prosthetics Design and Manufacturing,"The company Unlimited Tomorrow uses Siemens' Xcelerator toolset, which includes simulation and additive manufacturing capabilities, to create affordable, adaptable, and realistic prosthetics for children.",Manufacturing,Manufacturing,Medical Devices,Product Design & Development,Siemens Xcelerator tool set (design ; simulation ; additive manufacturing),"
 • Fraction of the price of previous methods
-• Quick way for children to stay current with prosthetics",https://www.youtube.com/watch?v=nnzWyU8I6hA,Youtube
+• Quick way for children to stay current with prosthetics",https://www.youtube.com/watch?v=nnzWyU8I6hA,YouTube
 aicase-02389,Verisk,Medical Document Analysis ,"Verisk's Discovery Navigator product uses AI and services like AWS Textract to analyze very large medical demand packages (hundreds or thousands of pages). Prior to AI, this was a manual and intensive process. With AI, the time it takes to review a file has been reduced by over 90%.",Financial Services,Financial Services,Insurance,Document Management,AI ; Gen AI ; Discovery Navigator product ; AWS Textract,"
-• Reduce time it takes to review one file by over 90%",https://www.youtube.com/watch?v=T1dn-FaBmP8,Youtube
+• Reduce time it takes to review one file by over 90%",https://www.youtube.com/watch?v=T1dn-FaBmP8,YouTube
 aicase-02390,NTT DATA,Internal HR and Back-Office Operations Analysis with Data Agents,NTT DATA is deploying AI internally to improve its own operations. The company is using data agents to have conversations with its data and ask personalized questions to better understand what is happening within its HR and back-office operations. This is part of a broader strategy to explore autonomous AI agents using a multi-agent approach.,Telecommunications,Telecommunications,Consulting Services,Employee Assistant,Azure AI Agent Service ; Microsoft Fabric ; Data agents ; Autonomous AI agents,"
 • Simplify deployment reliably and safely
-• Bridge challenges around data, governance, and integration",https://www.youtube.com/watch?v=pKrWV0s1acY,Youtube
+• Bridge challenges around data, governance, and integration",https://www.youtube.com/watch?v=pKrWV0s1acY,YouTube
 aicase-02391,Accor,Accor Uses AI to Enhance Customer Experience,"At Accor’s Mercure London Hyde Park hotel, the hotels group has strengthened their operational effectiveness and improved its customer service by equipping each of its charming rooms with AI-based devices which run on AWS. AI is the electronic science domain which is dedicated to resolving cognitive issues which are usually associated with human intelligence, particularly learning, problem-solving and model recognition.",Hospitality & Travel,Cross-Industry,"Hotels, Cloud Migration",Customer Service,AWS ; Amazon Connect,"• Equipping rooms with AI-based devices
 • Utilized Amazon Connect for enhanced customer experiences",https://aws.amazon.com/solutions/case-studies/innovators/accor/?did=cr_card&trk=cr_card,AWS
 aicase-02392,AWS,Media Intelligence: ML-Powered Media Content Analysis and Workflow Automation,"In the media industry, organizations face challenges in efficiently processing vast amounts of content, leading to increased manual workloads and slower workflows. To address this, AWS employs machine learning technologies to analyze video, audio, image, and text content, enabling automated insights and streamlined content workflows. By implementing solutions such as metadata extraction, content tagging, and automatic captions and translations, AWS enhances content search, discovery, and localization, ultimately broadening audience reach. The impact of these innovations includes reduced manual effort, improved compliance and moderation, new monetization opportunities through enriched metadata, and enhanced user experiences through better search relevance and accessibility.",Technology,"Media, Entertainment & Sports","Broadcasting, Digital Media, Content Production, Streaming Services",Content & Creative,AWS  ; Computer Vision ; Speech-to-Text ; NLP ; Translate ; Tagging & Metadata Extraction,"• Increased efficiency in content processing and reduced manual workload.  
@@ -10705,112 +10705,112 @@ aicase-02576,Wrtn,Crack Lifestyle AI Character Chat Platform,"Wrtn invested in p
 • Drove more than 10,000 hours of tutoring conversations in the first month using audio models",https://openai.com/index/wrtn/,OpenAI
 aicase-02577,Agemo,Internal Business Process and Marketing Automation,"Agemo, the creator of CodeWords, uses the platform internally to build automations for their own product, operations, and marketing workflows. They leverage the AI to draft emails for new feature launches and push code for review.",Technology,Technology,Not specified,IT & Platform Operations,CodeWords (Powered by Claude),"• Replaces manual processes and reduces reliance on SaaS tools
 • Drafts emails for new feature launches
-• Pushes code for review using AI.",https://claude.com/customers/codewords,Antrhopic
-aicase-02578,Chronograph,Rapid Onboarding and Knowledge Transfer for Client Management,"Chronograph leveraged Claude to accelerate the ramp-up time for junior employees who previously required over two months to contribute meaningfully. The system connects internal notes, CRM data (HubSpot MCP), documentation (Notion MCP), and product usage metadata via Claude’s context windows, enabling junior staff to quickly analyze complex client data.",Financial Services,Financial Services,Private equity,Human Resources (HR),Claude ; Claude Enterprise ; Model Context Protocol (MCP),• Enables new hires to contribute in Week 2 versus 2+ months previously,https://claude.com/customers/chronograph,Antrhopic
+• Pushes code for review using AI.",https://claude.com/customers/codewords,Anthropic
+aicase-02578,Chronograph,Rapid Onboarding and Knowledge Transfer for Client Management,"Chronograph leveraged Claude to accelerate the ramp-up time for junior employees who previously required over two months to contribute meaningfully. The system connects internal notes, CRM data (HubSpot MCP), documentation (Notion MCP), and product usage metadata via Claude’s context windows, enabling junior staff to quickly analyze complex client data.",Financial Services,Financial Services,Private equity,Human Resources (HR),Claude ; Claude Enterprise ; Model Context Protocol (MCP),• Enables new hires to contribute in Week 2 versus 2+ months previously,https://claude.com/customers/chronograph,Anthropic
 aicase-02579,Chronograph,AI-Powered Lead Generation and Sales Administration Automation,Chronograph’s sales teams built custom workflows using Claude to monitor media sources and industry announcements for potential leads. This AI automation saves significant time previously spent on lead generation and administrative tasks before and after meetings. This also replaced expensive vendor tools.,Financial Services,Financial Services,Private equity,Sales,Claude ; Claude Enterprise,"• Replaces expensive vendor tools with custom AI-powered lead generation workflows
 • Sales reps save dozens of hours weekly on lead generation
 • Saves significant time on administrative tasks before and after meetings
-• More time for building relationships and driving outcomes for the revenue pipeline",https://claude.com/customers/chronograph,Antrhopic
+• More time for building relationships and driving outcomes for the revenue pipeline",https://claude.com/customers/chronograph,Anthropic
 aicase-02580,Chronograph,Internal Cross-functional Data Analysis and Dashboard Creation,"Chronograph utilized Claude Artifacts and MCP integrations to unify valuable business data scattered across siloed internal systems (HubSpot, Notion, Linear, internal databases). Non-technical teams now use Claude Artifacts to build real-time dashboards and analyze data, eliminating reliance on limited Analytics and Engineering capacity.",Financial Services,Financial Services,Private equity,Data & Analytics,Claude ; Claude Enterprise ; Claude Artifacts ; Model Context Protocol (MCP),"• Achieved immediate productivity gains (email drafting, data analysis, document review)
 • Product team can create working Claude Artifact prototypes that efficiently convey key capabilities of new features to engineering
 • Non-technical teams eliminate Analytics team bottlenecks by building real-time dashboards
-• Handles more complex client needs and product development without traditional headcount scaling, improving unit economics.",https://claude.com/customers/chronograph,Antrhopic
+• Handles more complex client needs and product development without traditional headcount scaling, improving unit economics.",https://claude.com/customers/chronograph,Anthropic
 aicase-02581,Chronograph,Client-Facing Private Equity Portfolio Analysis,"Chronograph launched an MCP server to allow its private equity clients to connect their portfolio data managed on the company’s platform directly to Claude. This integration enables private equity professionals to instantly analyze fund performance, underlying company metrics, and exposure analytics.",Financial Services,Financial Services,Private equity,Data & Analytics,Claude ; Model Context Protocol (MCP),"• Enables institutional investors to unlock the full potential of their data
 • Moves from data retrieval to strategic insight in seconds
-• Allows instant analysis of fund performance, underlying company metrics, and exposure analytics.",https://claude.com/customers/chronograph,Antrhopic
+• Allows instant analysis of fund performance, underlying company metrics, and exposure analytics.",https://claude.com/customers/chronograph,Anthropic
 aicase-02582,Classmethod,Accelerated Code Review and Quality Control,"Classmethod integrated Claude Code to assist in the review process for engineering teams facing constraints. Claude Code detects security risks and violations of coding principles (DRY, YAGNI) during AI-powered self-reviews before pull requests are merged, providing instant context and feedback.",Technology,Technology,Not specified,Product Development / R&D & Engineering,Claude Code,"• Up to 80% decrease in time spent reviewing code
 • Elevates code quality across the organization
 • Detects security risks and violations of coding principles
-• Catches redundant code and unnecessary complexity before they reach production.",https://claude.com/customers/classmethod,Antrhopic
+• Catches redundant code and unnecessary complexity before they reach production.",https://claude.com/customers/classmethod,Anthropic
 aicase-02583,Classmethod,Code Generation and Project Implementation,"Classmethod uses Claude Code across its development lifecycle for implementation, generating entire logic blocks, and creating comprehensive test suites. The tool supports their full technology stack, including Ruby on Rails, Next.js, and Terraform. For one open-source project, 99% of the codebase was implemented using Claude Code.",Technology,Technology,Not specified,Product Development / R&D & Engineering,Claude Code,"• Reduced development time for specific coding tasks by up to 90%
 • Increases in code contributions shipped to production (108 merged pull requests in January to 165 in May-June)
 • Enables engineers to handle multiple services concurrently
-• Long-standing backlog items finally became reality.",https://claude.com/customers/classmethod,Antrhopic
-aicase-02584,Classmethod,Accelerated Codebase Understanding,"Claude Code helps developers understand complex, existing codebases 90% faster. This addresses the challenge of limited engineering resources and enables teams to dedicate more time to strategic initiatives.",Technology,Technology,Not specified,Training & L&D,Claude Code,• Helps developers understand existing codebases 90% faster.,https://claude.com/customers/classmethod,Antrhopic
-aicase-02585,Classmethod,Google Apps Script Task Automation,"Classmethod used Claude Code to automate tasks within Google Apps Script, leveraging the tool’s implementation accuracy in this environment.",Technology,Technology,Not specified,IT & Platform Operations,Claude Code,"• 96% reduction in Google Apps Script task processing time, from 24 hours to 1 hour.",https://claude.com/customers/classmethod,Antrhopic
+• Long-standing backlog items finally became reality.",https://claude.com/customers/classmethod,Anthropic
+aicase-02584,Classmethod,Accelerated Codebase Understanding,"Claude Code helps developers understand complex, existing codebases 90% faster. This addresses the challenge of limited engineering resources and enables teams to dedicate more time to strategic initiatives.",Technology,Technology,Not specified,Training & L&D,Claude Code,• Helps developers understand existing codebases 90% faster.,https://claude.com/customers/classmethod,Anthropic
+aicase-02585,Classmethod,Google Apps Script Task Automation,"Classmethod used Claude Code to automate tasks within Google Apps Script, leveraging the tool’s implementation accuracy in this environment.",Technology,Technology,Not specified,IT & Platform Operations,Claude Code,"• 96% reduction in Google Apps Script task processing time, from 24 hours to 1 hour.",https://claude.com/customers/classmethod,Anthropic
 aicase-02586,CodeWords,Conversational AI Workflow Automation Platform,"CodeWords, built by Agemo, uses Claude to power Cody, an AI workflow builder that allows non-technical users to create complex automations through natural conversation. The system generates and deploys production-ready code and supports complex use cases like multi-source knowledge aggregators combining data from platforms like Jira, Salesforce, and internal documentation.",Technology,Technology,"Workflow automation, No-code/low-code",IT & Platform Operations,Claude ; Claude Sonnet 4.5 ; Claude Agent SDK,"• Increased first-session success rates from 43% to 92% for non-technical users building workflows
 • Reduced build time for complex automations from 25 minutes to 6 minutes
 • Cut simple automation build time from 11 minutes to 115 seconds
 • Enabled non-technical users to create automations for complex use cases
-• High conversational quality created customer stickiness and retention.",https://claude.com/customers/codewords,Antrhopic
+• High conversational quality created customer stickiness and retention.",https://claude.com/customers/codewords,Anthropic
 aicase-02587,Doctolib,Accelerated Engineering Onboarding,Doctolib used Claude Code to address the time new engineers spent ramping up on unfamiliar parts of the codebase (previously weeks). The tool enables engineers to self-onboard and start contributing quickly by having a conversation with the code via reusable prompts.,Healthcare,Healthcare,Healthcare technology,Training & L&D,Claude Code,"• Self-service onboarding to unfamiliar codebases and technology stacks
 • Ramp-up time reduced from weeks to days
-• Engineers can contribute to areas outside their expertise much faster.",https://claude.com/customers/doctolib,Antrhopic
+• Engineers can contribute to areas outside their expertise much faster.",https://claude.com/customers/doctolib,Anthropic
 aicase-02588,Doctolib,Instant Automated Code Review,"To resolve bottlenecks caused by engineers waiting hours or days for pull request reviews, Doctolib implemented Claude Code for instant, automated reviews. The AI runs in their main infrastructure repository, catching issues earlier in the development cycle.",Healthcare,Healthcare,Healthcare technology,Product Development / R&D & Engineering,Claude Code,"• Reviews pull requests instantly without waiting for team availability
 • Pull request reviews, previously taking hours or days, now happen instantly
-• Catches issues earlier in the development cycle.",https://claude.com/customers/doctolib,Antrhopic
+• Catches issues earlier in the development cycle.",https://claude.com/customers/doctolib,Anthropic
 aicase-02589,Doctolib,Automated Technical Documentation Maintenance,"Doctolib implemented Claude Code to automate the maintenance of technical documentation, which previously consumed significant engineering time. Every code change triggers a Continuous Integration (CI) job that automatically updates the technical documentation.",Healthcare,Healthcare,Healthcare technology,Product Development / R&D & Engineering,Claude Code,"• Maintains technical documentation automatically with every code change
-• Keeps technical docs current with very rare intervention.",https://claude.com/customers/doctolib,Antrhopic
-aicase-02590,Doctolib,Technical Debt Remediation via Code Migration,Doctolib addressed accumulating technical debt by using repeatable prompts and automated CI workflows powered by Claude Code. A key achievement was migrating and replacing their entire legacy visual regression testing infrastructure.,Healthcare,Healthcare,Healthcare technology,IT & Platform Operations,Claude Code,• Migrated their entire visual regression testing tool in hours rather than weeks.,https://claude.com/customers/doctolib,Antrhopic
+• Keeps technical docs current with very rare intervention.",https://claude.com/customers/doctolib,Anthropic
+aicase-02590,Doctolib,Technical Debt Remediation via Code Migration,Doctolib addressed accumulating technical debt by using repeatable prompts and automated CI workflows powered by Claude Code. A key achievement was migrating and replacing their entire legacy visual regression testing infrastructure.,Healthcare,Healthcare,Healthcare technology,IT & Platform Operations,Claude Code,• Migrated their entire visual regression testing tool in hours rather than weeks.,https://claude.com/customers/doctolib,Anthropic
 aicase-02591,eSentire,Autonomous Threat Investigation and Analysis,"eSentire deployed Claude in Amazon Bedrock (via their Atlas Platform) to replicate the multi-step investigative processes of their top SOC analysts. The AI synthesizes evidence from multiple sources and delivers consistent, expert-level analysis for Managed Detection and Response (MDR).",Cybersecurity,Cybersecurity,Managed detection and response (MDR),Security & Cyber / Risk Management,Claude ; Amazon Bedrock ; Atlas Platform,"• Achieved 95% validation accuracy matching top SOC analysts across 1,000 investigations
 • Achieved 99.3% threat suppression rate containing threats at first contact
-• Expert-grade analysis time reduced from 5 hours to 7 minutes in critical first minutes of an attack.",https://claude.com/customers/esentire,Antrhopic
+• Expert-grade analysis time reduced from 5 hours to 7 minutes in critical first minutes of an attack.",https://claude.com/customers/esentire,Anthropic
 aicase-02592,eSentire,Licensing Investigative Intelligence as a Business Model,"eSentire embedded Claude’s autonomous investigation capabilities into the Atlas Platform to create a system that could be licensed to third-party security service providers for their own MDR services, monetizing their investigative intelligence.",Cybersecurity,Cybersecurity,Not specified,Sales,Claude ; Atlas Platform,"• Generated over $1M in new revenue from platform licensing to security service providers
-• Extended eSentire's reach.",https://claude.com/customers/esentire,Antrhopic
+• Extended eSentire's reach.",https://claude.com/customers/esentire,Anthropic
 aicase-02593,eSentire,Conversational Security Data Query,"Claude enables Natural Language Security Intelligence within the Atlas Platform, allowing customers to query security data conversationally. This provides comprehensive threat analysis accessible to both technical and non-technical stakeholders and enables natural language searches of complex log data.",Cybersecurity,Cybersecurity,Not specified,Data & Analytics,Claude,"• Customers query security data conversationally, receiving comprehensive threat analysis
-• Enhanced depth and transparency of security analysis, strengthening customer trust.",https://claude.com/customers/esentire,Antrhopic
+• Enhanced depth and transparency of security analysis, strengthening customer trust.",https://claude.com/customers/esentire,Anthropic
 aicase-02594,Fountain,Automated Candidate Screening and High-Volume Hiring,"Fountain uses Claude to power its AI Recruiter, an agentic system designed to automate manual screening effort for frontline workers (retail, logistics, hospitality, healthcare). The AI reviews applications, matches criteria, routes candidates, and ensures compliance.",Technology,Cross-Industry,"High-volume hiring, Frontline workforce",Human Resources (HR),Claude ; Claude Developer Platform,"• 50% reduction in manual screening effort
 • 2x increase in candidate conversion rates with AI-enabled workflows
 • Helped one major logistics customer fully staff a new fulfillment center in under 72 hours (previously took over a week)
-• Enables real-time candidate screening and automated document generation.",https://claude.com/customers/fountain,Antrhopic
+• Enables real-time candidate screening and automated document generation.",https://claude.com/customers/fountain,Anthropic
 aicase-02595,Fountain,AI-Enabled Workforce Onboarding and HR Support,Fountain utilizes Claude within Fountain Copilot and other agents to streamline onboarding workflows and handle post-hire support for their customers’ frontline workers. The AI provides sentiment analysis and resolves support issues.,Technology,Cross-Industry,Frontline workforce,Human Resources (HR),Claude ; Fountain Copilot,"• 30–40% time savings on onboarding workflows
 • A decrease in HR support tickets by 30% for customers
-• Enables sentiment analysis.",https://claude.com/customers/fountain,Antrhopic
+• Enables sentiment analysis.",https://claude.com/customers/fountain,Anthropic
 aicase-02596,Fountain,Internal Product Development Velocity Acceleration,"Fountain's internal engineering team uses AI tools, including Claude Code, to accelerate their development velocity. This enables them to launch production-ready features and products for the frontline workforce market in days rather than weeks.",Technology,Technology,Not specified,Product Development / R&D & Engineering,Claude Code,"• Development velocity has accelerated dramatically
-• Able to launch production-ready features in days instead of weeks.",https://claude.com/customers/fountain,Antrhopic
+• Able to launch production-ready features in days instead of weeks.",https://claude.com/customers/fountain,Anthropic
 aicase-02597,HackerOne,Accelerated Vulnerability Validation,"HackerOne deployed Hai, an agentic AI system powered by Claude, to accelerate vulnerability validation processes within their Continuous Threat Exposure Management (CTEM) platform. Hai processes complex technical reports and analyzes patterns across HackerOne’s vast dataset to prioritize exposures.",Cybersecurity,Cybersecurity,"Vulnerability assessment, Threat exposure management",Security & Cyber / Risk Management,Claude ; Hai ; Amazon Bedrock,"• Reduces vulnerability validation time by 75%, from 20 minutes to 5 minutes per report
 • Accelerates remediation and reduces risk at scale
-• Processes and analyzes patterns across one of the world's largest vulnerability datasets.",https://claude.com/customers/hackerone,Antrhopic
+• Processes and analyzes patterns across one of the world's largest vulnerability datasets.",https://claude.com/customers/hackerone,Anthropic
 aicase-02598,HackerOne,Automated Security Reporting and Stakeholder Summarization,"HackerOne uses Hai, powered by Claude, to generate clear, actionable executive summaries for stakeholders and provide contextual guidance tailored to customer environments. The system also streamlines report writing for security researchers, improving structure and completeness.",Cybersecurity,Cybersecurity,Not specified,Legal & Compliance,Claude ; Hai,"• Cuts coordination time between security and development teams by 20-30%
 • Delivers actionable security insights in as little as 30 seconds
 • Streamlines triage, prioritization, and remediation processes
-• Improves report quality, leading to quicker fixes.",https://claude.com/customers/hackerone,Antrhopic
+• Improves report quality, leading to quicker fixes.",https://claude.com/customers/hackerone,Anthropic
 aicase-02599,Hostinger,AI-Powered Website and Application Generation,"Hostinger launched Hostinger Horizons, an AI-powered builder, to remove the technical friction and steep learning curve associated with traditional web builders. Claude powers the core, generating a fully functional online presence (codebase, copy, design, SEO) from a single natural language description, including integrated e-commerce capabilities.",Technology,Technology,"Web development, E-commerce",Product Development / R&D & Engineering,Claude,"• Transformed web creation from a days-long technical challenge into a conversational process that takes just minutes
 • Minutes instead of weeks to launch a fully functional website
 • Banished the steep learning curve
 • Shrank early-stage user churn
-• Expanded their addressable market.",https://claude.com/customers/hostinger,Antrhopic
+• Expanded their addressable market.",https://claude.com/customers/hostinger,Anthropic
 aicase-02600,Hostinger,Accelerated Internal Feature Prototyping and Deployment,"Hostinger utilizes Claude internally to accelerate its feature development cycle for Hostinger Horizons. The model's ability to understand complex, multi-step instructions allows the team to prototype and deploy new application templates rapidly in response to user demand.",Technology,Technology,Not specified,Product Development / R&D & Engineering,Claude,"• Significantly accelerated feature development cycle for Horizons
 • Can prototype and deploy new application templates in response to user demand
-• Major competitive advantage.",https://claude.com/customers/hostinger,Antrhopic
+• Major competitive advantage.",https://claude.com/customers/hostinger,Anthropic
 aicase-02601,JetBrains,Multi-Agent Development Environment Integration,"JetBrains integrated Claude Agent, built on the Claude Agent SDK, directly into its suite of IDEs (e.g., IntelliJ IDEA, PyCharm) as the first third-party coding agent. This provides developers with agentic coding capabilities natively within their workflow, allowing them to navigate codebases, execute searches, and apply refactorings without switching contexts.",Technology,Technology,"IDE Development, Software tooling",Product Development / R&D & Engineering,Claude Agent SDK ; Claude Agent ; JetBrains AI Assistant,"• Developers benefit from the same underlying technology that powers Claude Code
 • Developers have access to best-in-class tools and power of choice
 • No separate plugins, authentication flows, or standalone tools to manage
-• Developers can navigate codebases, execute searches, and apply refactorings without switching contexts.",https://claude.com/customers/jetbrains-2,Antrhopic
+• Developers can navigate codebases, execute searches, and apply refactorings without switching contexts.",https://claude.com/customers/jetbrains-2,Anthropic
 aicase-02602,L'Oréal,Conversational Data Analytics using Multi-Agent Orchestration,"L'Oréal built an AI platform where Claude serves as the main orchestrator of multiple specialized agents (for calculations, data retrieval, master data). This system transforms natural language questions from employees into accurate data insights and visualizations, addressing the need for sophisticated reasoning in analytical and financial tasks.",Retail & E-commerce,Retail & E-commerce,"Cosmetics, Beauty Tech, Conversational Data Query",Data & Analytics,Claude ; Claude 3.7 ; Claude 4 ; Claude 4.5 Sonnet,"• Achieved 99.9% accuracy on conversational analytics applications, compared to 90% with previous GenAI approaches
 • Enabled employees to query data directly rather than building custom dashboards for each question
 • Deployed Claude across internal AI platform, serving 44,000 monthly users (2.5 million messages per month)
-• Eliminating repetitive tasks and allowing employees to focus on higher-value work.",https://claude.com/customers/loreal,Antrhopic
+• Eliminating repetitive tasks and allowing employees to focus on higher-value work.",https://claude.com/customers/loreal,Anthropic
 aicase-02603,L'Oréal,Internal Engineering Productivity via AI Coding Tools,L'Oréal utilizes AI assistance across its software development lifecycle through tools like GitHub Copilot and Claude Code. Early testing with dozens of developers indicated promising results for engineering productivity.,Retail & E-commerce,Retail & E-commerce,Not specified,Product Development / R&D & Engineering,Claude Code ; GitHub Copilot,"• Promising results for engineering productivity shown in early testing
-• Accelerating time-to-market and speeding formulation research.",https://claude.com/customers/loreal,Antrhopic
+• Accelerating time-to-market and speeding formulation research.",https://claude.com/customers/loreal,Anthropic
 aicase-02604,N26,Multilingual Customer Service and Interaction Analysis,"N26 deployed Claude to power a customer-facing virtual assistant that provides instant support in five languages 24/7. Claude also works behind the scenes to analyze thousands of daily conversations, summarizing interactions and identifying trends to improve service quality.",Financial Services,Financial Services,"Retail banking, Digital banking",Customer Service,Claude ; AWS Bedrock,"• Automated up to 70% of tasks across targeted processes
 • Reduced manual processing by up to 50% across specific processes
-• Customers receive faster answers and quicker resolution on critical issues.",https://claude.com/customers/n26,Antrhopic
+• Customers receive faster answers and quicker resolution on critical issues.",https://claude.com/customers/n26,Anthropic
 aicase-02605,N26,Chargeback and Physical Claim Processing Automation,"N26 automates document-heavy and complex operational processes. For chargeback requests, Claude translates documentation, analyzes claims, and recommends decisions, even identifying details missed by human reviewers. The AI also processes and classifies incoming physical claim letters.",Financial Services,Financial Services,"Retail banking, Claims processing",Legal & Compliance,Claude,"• Claude was able to identify some details that the human eye missed
-• Accuracy and traceability of decision-making has improved.",https://claude.com/customers/n26,Antrhopic
-aicase-02606,N26,Financial Crime Analysis Support,"Claude assists N26 analysts in financial crime investigations by synthesizing customer data, recommending actions, and auto-drafting necessary investigation reports. This leverages Claude's advanced reasoning capabilities for sensitive financial processes.",Financial Services,Financial Services,Not specified,Security & Cyber / Risk Management,Claude,"• Assists analysts by synthesizing customer data, recommending actions, and auto-drafting investigation reports.",https://claude.com/customers/n26,Antrhopic
+• Accuracy and traceability of decision-making has improved.",https://claude.com/customers/n26,Anthropic
+aicase-02606,N26,Financial Crime Analysis Support,"Claude assists N26 analysts in financial crime investigations by synthesizing customer data, recommending actions, and auto-drafting necessary investigation reports. This leverages Claude's advanced reasoning capabilities for sensitive financial processes.",Financial Services,Financial Services,Not specified,Security & Cyber / Risk Management,Claude,"• Assists analysts by synthesizing customer data, recommending actions, and auto-drafting investigation reports.",https://claude.com/customers/n26,Anthropic
 aicase-02607,N26,Rapid AI Application Deployment and Infrastructure,"N26 focused on rapid deployment of over 15 internal AI use cases within the first year, leveraging Claude's performance for quick integration. The team reduced implementation time from ideation to testing to as little as 1-2 weeks for some opportunities.",Financial Services,Financial Services,Digital banking,IT & Platform Operations,Claude ; Claude Code,"• Deployed 15+ internal use cases within the first year
 • Launched new implementations in as little as 1-2 weeks, from ideation to initial evaluation
-• Growing AI initiatives fivefold.",https://claude.com/customers/n26,Antrhopic
+• Growing AI initiatives fivefold.",https://claude.com/customers/n26,Anthropic
 aicase-02608,Norges Bank Investment Management (NBIM),Enterprise-wide Analytical & Operational Productivity,"NBIM, a $1.7 trillion sovereign fund, needed an AI solution to analyze massive amounts of information daily, including research reports, market data, regulatory filings, and complex ESG documentation, suitable for both technical and non-technical staff. Claude was deployed across 600+ users to assist with analytical and operational tasks. The solution integrated AI insights into investment operations and compliance workflows, achieving measurable gains in research synthesis and documentation.",Financial Services,Financial Services,"Sovereign wealth management, Investment operations, ESG analysis",Data & Analytics,Claude ; Claude Sonnet 4.5,"• Saved 20% of time weekly per employee on Claude assisted analytical and operational tasks
 • Achieved measurable productivity gains in research synthesis and documentation
 • Enabled business users to prototype solutions without IT bottlenecks
 • Integrated AI insights into investment operations and compliance workflows
 • Portfolio managers process research faster
 • Compliance teams automate documentation
-• Operations staff build workflow automations.",https://claude.com/customers/nbim,Antrhopic
-aicase-02609,Norges Bank Investment Management (NBIM),Code Generation and Workflow Utilities for Business Users,"NBIM extended Claude Code access to business analysts and quantitative researchers to enable rapid development of analysis tooling and utilities without reliance on the IT department. Teams use the AI for code review aids, data-quality checks, and documentation accelerators, operating within defined governance controls.",Financial Services,Financial Services,Not specified,Product Development / R&D & Engineering,Claude Code,• Business analysts and quantitative researchers can create utilities and workflows without waiting for IT bottlenecks,https://claude.com/customers/nbim,Antrhopic
+• Operations staff build workflow automations.",https://claude.com/customers/nbim,Anthropic
+aicase-02609,Norges Bank Investment Management (NBIM),Code Generation and Workflow Utilities for Business Users,"NBIM extended Claude Code access to business analysts and quantitative researchers to enable rapid development of analysis tooling and utilities without reliance on the IT department. Teams use the AI for code review aids, data-quality checks, and documentation accelerators, operating within defined governance controls.",Financial Services,Financial Services,Not specified,Product Development / R&D & Engineering,Claude Code,• Business analysts and quantitative researchers can create utilities and workflows without waiting for IT bottlenecks,https://claude.com/customers/nbim,Anthropic
 aicase-02610,Norges Bank Investment Management (NBIM),Establishing AI Literacy and Best Practices,NBIM implemented comprehensive training programs to establish AI literacy across its 600+ employees. They also launched an AI Ambassador Network of 50 employees who received specialized training to share use cases and drive adoption and best practices organization-wide.,Financial Services,Financial Services,Not specified,Training & L&D,Claude,"• AI literacy established across 600+ employees.• AI Ambassador network drives adoption and best practices organization-wide
-• Initial skepticism around AI quickly faded as employees gained prompting skills",https://claude.com/customers/nbim,Antrhopic
+• Initial skepticism around AI quickly faded as employees gained prompting skills",https://claude.com/customers/nbim,Anthropic
 aicase-02611,Novo Nordisk,Automated Clinical Study Report (CSR) Generation,"Novo Nordisk needed to transform the process of producing lengthy clinical study reports (up to 300 pages) which typically took months and slowed down drug development. They used Claude Code to build NovoScribe, an AI platform utilizing RAG to automate the generation of accurate, regulatory-grade CSRs.",Healthcare,Healthcare,"Pharmaceuticals, Clinical trials, Drug development",Legal & Compliance,Claude ; Claude Code ; NovoScribe ; Amazon Bedrock ; MongoDB Atlas,"• Time spent producing clinical study documentation reduced from 10+ weeks/months to 10 minutes
 • Cut writing times on CSRs by 90%
 • Review-to-approval cycles decreased significantly
-• System has gained positive feedback from regulators.",https://claude.com/customers/novo-nordisk,Antrhopic
+• System has gained positive feedback from regulators.",https://claude.com/customers/novo-nordisk,Anthropic
 aicase-02612,Novo Nordisk,Automated Device Protocols and Patient Guide Creation,"Novo Nordisk expanded NovoScribe to handle device verification protocols and patient guides, materials that previously required extensive resources and time, often involving external agencies. This involves integrating legacy systems to ingest unstructured data.",Healthcare,Healthcare,"Pharmaceuticals, Device testing",Legal & Compliance,Claude ; NovoScribe,"• 95% reduction in resources needed to create device verification protocols
-• Team can now produce a complete study booklet and patient guide in under a minute.",https://claude.com/customers/novo-nordisk,Antrhopic
+• Team can now produce a complete study booklet and patient guide in under a minute.",https://claude.com/customers/novo-nordisk,Anthropic
 aicase-02613,Novo Nordisk,Empowering Non-Technical Domain Experts for Prototyping,Novo Nordisk utilized Claude Code to enable scientific domain experts (who lack extensive programming experience) to quickly generate Proof of Concepts (POCs) using natural language. This accelerated the feature development process for their small team.,Healthcare,Healthcare,Pharmaceuticals,Product Development / R&D & Engineering,Claude Code,"• Enabled even non-technical team members to prototype features
 • Any team member can spin up a prototype in hours instead of days or weeks
-• Allows scientific domain experts to have a much bigger impact on how things are developed.",https://claude.com/customers/novo-nordisk,Antrhopic
+• Allows scientific domain experts to have a much bigger impact on how things are developed.",https://claude.com/customers/novo-nordisk,Anthropic
 aicase-02614,Abu Dhabi National Oil Company (ADNOC),AI-powered Rock Sample Analysis for Geological Modeling,"ADNOC faced challenges due to the slow, labor-intensive, and inconsistent manual process of microscopic rock description by petrographers, compounded by expertise loss due to retirement. They partnered with IBM to develop an automated process using AI (cognitive image recognition, NLP, regression) trained on rock images. This solution analyzes samples rapidly and consistently, ensuring interpretation remains at the expert level. The goal is to generate more deterministic data for more accurate subsurface models to support multibillion-dollar field development decisions.",Energy & Utilities,Energy & Utilities,"Oil and Gas exploration, Cognitive Geology",Data & Analytics,IBM Watson Visual Recognition service ; IBM Watson ; IBM Cloud ; Natural Language Processing ; Regression,"• Watson can analyze 527 images per second
 • Image classification ability of up to 25,000 images per day
 • Analysis of samples from a single reservoir now takes only minutes–not months

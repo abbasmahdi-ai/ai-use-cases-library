@@ -20,19 +20,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - **763 new use cases** (+33.8% growth), bringing total to 3,023
 - New featured cases highlighting breakthrough applications
-- Enhanced trends analysis with 7 major trends (up from 6)
+- Enhanced trends analysis with 6 major trends
 - Comprehensive vendor comparison with v1.0 → v2.0 changes
 - Updated charts reflecting v2.0 dataset
+- In-review dataset: 78 cases in `in-review/` 
+- Excluded dataset: 720 cases in `excluded/`
 
 ### Changed
 - **Google Gemini surge**: +77% adoption (409 → 724 tool mentions)
-- **Reasoning models**: 47 cases (up from 20, +135% growth)
+- **Reasoning models**: 26 cases (up from 17, +53% growth)
 - **Manufacturing sector**: +50% cases showing AI expansion beyond digital industries
 - **Healthcare innovations**: 347 cases (up from 280) spanning discovery to diagnostics
 
 ### Key Findings
-- Agentic AI mainstream: 358 cases of multi-agent production systems
-- Multimodal AI: 271 cases combining vision, voice, and text
+- Agentic AI mainstream: 224 cases of multi-agent production systems
+- Multimodal AI: 288 cases combining vision, voice, and text
 - Financial inclusion: New applications serving blue-collar workers and smallholder farmers
 - Breakthrough diagnostics: 4-hour bacterial diagnosis, intraoperative brain tumor detection
 

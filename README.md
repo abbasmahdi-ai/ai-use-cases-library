@@ -67,11 +67,11 @@ ai-use-cases-library/
 
 ### 2. **View insights**
 
-   * [**Trends analysis**](insights/trends-analysis.md) - 7 major trends from 3,023 cases
-     - Reasoning models: The next leap (o1/o3/GPT-5)
+   * [**Trends analysis**](insights/trends-analysis.md) - 6 major trends from 3,023 cases
+     - Emerging Tech: Reasoning models
      - Agentic AI going mainstream
      - Healthcare: From support to discovery
-     - Climate & sustainability impact
+     - Climate & Sustainability: Real-world impact
      - Multimodal & voice AI breakthroughs
      - Autonomous systems at scale
    
@@ -100,7 +100,7 @@ ai-use-cases-library/
    - ➡️ More in the [charts folder](./charts/)  
 
    > **Note on Vendor Presence**  
-   > Vendor comparisons in this repository are based on the *share of documented case studies in our dataset (3,023 cases)*.  
+   > Vendor comparisons in this repository are based on the *share of documented case studies in my dataset (3,023 cases)*.  
    >  - **Tool/Technology mentions** reflect where vendor products (e.g., Azure, Copilot, GPT, Claude, Gemini) appear in implementations.  
    > - **Source (Publisher)** indicates who published the case study (e.g., Microsoft, AWS, Google).  
    >
@@ -247,10 +247,10 @@ Retrieved from https://github.com/abbasmahdi-ai/ai-use-cases-library
 
 ### Key Findings
 - **Google Gemini surge**: +77% adoption (409 → 724 tool mentions)
-- **Reasoning models emerging**: +135% growth (20 → 47 cases using o1/o3/GPT-5)
+- **Reasoning models emerging**: +53% growth ( 17 → 26 cases using o1/o3/GPT-5)
 - **Manufacturing expansion**: +50% cases (100 → 150), showing AI moving beyond digital sectors
 - **Healthcare innovation**: 347 cases (up from 280) spanning drug discovery to diagnostics
-- **Agentic AI mainstream**: 358 cases of multi-agent systems in production
+- **Agentic AI mainstream**: 224 cases of multi-agent systems in production
 
 ### Breakthrough Applications
 - 4-hour bacterial diagnosis (Biofy Technologies)
@@ -260,7 +260,7 @@ Retrieved from https://github.com/abbasmahdi-ai/ai-use-cases-library
 - AI "talking to trees" for sustainability (Avanade)
 
 ### Updated Content
-- ✅ Trends analysis - 7 major trends documented
+- ✅ Trends analysis - 6 major trends documented
 - ✅ Vendor comparison - Competitive dynamics and market shifts
 - ✅ Featured cases - 50+ breakthrough applications
 - ✅ All charts - 5 publication-ready visualizations

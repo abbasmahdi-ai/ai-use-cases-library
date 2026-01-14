@@ -1,282 +1,123 @@
 # Vendor Presence in Documented AI Use Cases
 
-I analyzed **3,023 documented enterprise AI use cases** (up 34% from v1.0). Vendor presence was measured two ways:
+We analyzed 3,023 documented enterprise AI use cases. Vendor presence was measured two ways:  
 
 1. **Tool/Technology mentions** → where a vendor's products appear in the Tool/Technology column.  
-   - Captures multi-vendor adoption patterns
-   - Shows technical footprint across use cases  
-   - Reveals actual deployment choices
+   - Captures multi-vendor adoption.  
+   - Shows technical footprint across use cases.  
 
 2. **Source (Publisher)** → who published the case study.  
-   - Reflects marketing and publication activity
-   - Vendors like Microsoft and Google publish far more case studies than others
-   - Shows go-to-market strategy differences
+   - Reflects marketing and publication bias.  
+   - Vendors like Microsoft and Google publish far more case studies than others.  
 
-> ℹ️ **Methodology Note:** These figures represent the *share of documented case studies in our dataset*, not true global market share. Vendors with larger publication pipelines (e.g., Microsoft, Google) appear prominently. See [README](../README.md) for full methodology.
-
+> ℹ️ **Note:** See the [README note on vendor presence](../README.md) for methodology and limitations.  
+> These figures represent the *share of documented case studies in our dataset*, not true global adoption. Vendors with larger publication pipelines (e.g., Microsoft, Google) may appear overrepresented.
 ---
 
-## What Changed from v1.0 to v2.0
+## 🏆 Vendor Presence by Tool/Technology
 
-The additional 763 cases revealed **major shifts in vendor landscape**:
-
-| Vendor | v1.0 Tools | v2.0 Tools | Change | % Growth |
-|--------|------------|------------|--------|----------|
-| **Google** | 409 | 724 | +315 | **+77%** 📈 |
-| **Microsoft** | 749 | 767 | +18 | +2% |
-| **OpenAI** | 460 | 506 | +46 | +10% |
-| **AWS** | 301 | 408 | +107 | **+36%** 📈 |
-| **Anthropic** | 169 | 215 | +46 | +27% |
-| **NVIDIA** | 229 | 239 | +10 | +4% |
-| **IBM** | 193 | 221 | +28 | +15% |
-
-**Key Insight**: Google's explosive growth (+77%) driven by Gemini adoption shows the market expanding beyond Microsoft + OpenAI dominance.
-
----
-
-## Vendor Presence by Tool/Technology
 
 ![Vendor by Tool Mentions](../charts/vendor_by_tools.png)
 
-### Top 7 Vendors (by tool mentions):
 
-| Rank | Vendor | Cases | Adoption Rate | Frequency |
-|------|--------|-------|---------------|-----------|
-| 1 | **Microsoft** | 767 | 25.4% | 1 in 3.9 |
-| 2 | **Google** | 724 | 24.0% | 1 in 4.2 |
-| 3 | **OpenAI** | 506 | 16.7% | 1 in 6.0 |
-| 4 | **AWS** | 408 | 13.5% | 1 in 7.4 |
-| 5 | **NVIDIA** | 239 | 7.9% | 1 in 12.6 |
-| 6 | **IBM** | 221 | 7.3% | 1 in 13.7 |
-| 7 | **Anthropic** | 215 | 7.1% | 1 in 14.1 |
+| Vendor | Tool/Technology Mentions | % of Dataset |
+|--------|--------------------------|--------------|
+| **Microsoft** | 768 | 25.4% |
+| **Google** | 726 | 24.0% |
+| **OpenAI** | 500 | 16.5% |
+| **AWS** | 370 | 12.2% |
+| **NVIDIA** | 239 | 7.9% |
+| **IBM** | 221 | 7.3% |
+| **Anthropic** | 215 | 7.1% |
 
-### Key Observations:
-
-**Microsoft's Enterprise Lock-In**
-- Dominates through Azure + Copilot ecosystem integration
-- 93% of "Copilot" mentions in our dataset
-- Strong across Financial Services (96 cases), Healthcare (79 cases)
-- Azure OpenAI Service: 349 mentions
-
-**Google's Gemini Surge**
-- Gemini appears in 405 cases (most-mentioned specific model)
-- Leads in Retail & E-commerce personalization (45 cases)
-- Vertex AI platform: 252 mentions
-- Growth driven by multimodal capabilities and competitive pricing
-
-**OpenAI's Innovation Leadership**
-- GPT-4: 83 mentions
-- Reasoning models (o1/o3) driving new use cases
-- Strong in research, healthcare breakthroughs
-- Despite fewer direct mentions, powers many Microsoft deployments via Azure OpenAI
-
-**AWS Bedrock's Multi-Model Advantage**
-- 201 mentions of Amazon Bedrock
-- Flexibility to deploy multiple models (Anthropic Claude, Meta Llama, Mistral)
-- SageMaker: 104 mentions for custom ML
-- Strong in cost-sensitive, multi-cloud enterprises
-
-**Anthropic's Quality Focus**
-- Claude appears in 214 cases
-- Favored by high-stakes applications (legal, healthcare, finance)
-- Present in >50% of featured "high-impact" cases
-- Growing in startups and technology sector (44 cases)
-
-**NVIDIA's Infrastructure Dominance**
-- Powers the infrastructure behind most vendors
-- NIM (NVIDIA Inference Microservices): 7 direct mentions
-- Actual usage far exceeds documented mentions
-
-**IBM's Legacy Position**
-- watsonx: 157 mentions
-- Strong in Financial Services and established enterprises
-- Growing slowly (+15% vs v1.0) compared to cloud-native competitors
+**Takeaway:** Microsoft and Google dominate due to Azure + Copilot and Gemini ecosystems, while OpenAI and Anthropic show strong technical presence despite publishing fewer cases directly.
 
 ---
 
-## Vendor Presence by Source (Publisher)
+## 📰 Vendor Presence by Source (Publisher)
 
 ![Vendor by Source Publisher](../charts/vendor_by_source.png)
 
-### Publication Activity Rankings:
+| Publisher | Published Cases | % of Dataset |
+|-----------|-----------------|--------------|
+| **Google** | 996 | 32.9% |
+| **Microsoft** | 755 | 25.0% |
+| **AWS** | 297 | 9.8% |
+| **NVIDIA** | 218 | 7.2% |
+| **IBM** | 217 | 7.2% |
+| **Anthropic** | 175 | 5.8% |
+| **OpenAI** | 151 | 5.0% |
 
-| Rank | Publisher | Published Cases | % of Dataset | Change vs v1.0 |
-|------|-----------|-----------------|--------------|----------------|
-| 1 | **Google** | 996 | 33.0% | +399 (+67%) 📈 |
-| 2 | **Microsoft** | 755 | 25.0% | +8 (+1%) |
-| 3 | **AWS** | 297 | 9.8% | +31 (+12%) |
-| 4 | **NVIDIA** | 218 | 7.2% | 0 (0%) |
-| 5 | **IBM** | 217 | 7.2% | +24 (+12%) |
-| 6 | **OpenAI** | 150 | 5.0% | +50 (+50%) 📈 |
-| 7 | **Anthropic** | 138 | 4.6% | 0 (0%) |
-
-### Publishing Strategy Insights:
-
-**Google's Content Machine**
-- Published 996 case studies (33% of entire dataset!)
-- Aggressive go-to-market strategy around Gemini
-- Heavy investment in customer success storytelling
-- Shows commitment to enterprise adoption
-
-**Microsoft's Established Presence**
-- 755 published cases, but growth slowing (+1%)
-- Already saturated with Azure/Copilot success stories
-- Focus shifting from quantity to quality
-
-**OpenAI's Growing Voice**
-- +50% growth in published cases
-- Increasing direct enterprise engagement
-- Shift from "API provider" to "enterprise partner"
-
-**Anthropic & NVIDIA: Quality Over Quantity**
-- Both prioritize selective, high-impact case studies
-- Focus on technical depth over marketing volume
-- Anthropic's cases tend to feature in "featured" selections
+**Takeaway:** Google leads in publication volume (33% of all cases), followed by Microsoft. OpenAI and Anthropic publish fewer cases directly, even though their models are widely used through partners.
 
 ---
 
-## Top Tools & Platforms (v2.0)
+## 🔍 The Multiplier Effect
 
-| Tool/Platform | Documented Mentions | Primary Use Cases |
-|---------------|---------------------|-------------------|
-| **Google Gemini** | 405 | Multimodal, personalization, creative |
-| **Azure OpenAI Service** | 349 | Enterprise AI, copilots, RAG |
-| **Vertex AI** | 252 | ML platform, model deployment |
-| **Claude (Anthropic)** | 214 | Long context, reasoning, analysis |
-| **Amazon Bedrock** | 201 | Multi-model hosting, flexibility |
-| **Microsoft 365 Copilot** | 168 | Productivity, collaboration |
-| **watsonx (IBM)** | 157 | Enterprise AI, governance |
-| **Amazon SageMaker** | 104 | Custom ML, training |
-| **GPT-4** | 83 | Advanced reasoning, coding |
-| **GitHub Copilot** | 61 | Code completion, development |
+**OpenAI** appears in 500 tool mentions but only published 151 cases directly. **Why the gap?**
 
-### Emerging Tools:
-- **NVIDIA NIM**: 7 mentions (inference microservices)
-- **Mistral AI**: 9 mentions (European alternative)
-- **Meta Llama**: 55 mentions (open-source deployments)
+Because Azure OpenAI Service deployments get counted as both "Microsoft" and "OpenAI." Similarly, **Anthropic** appears in 215 tool mentions but published 175 cases directly. The rest come through AWS Bedrock.
+
+**What this means:** The actual usage patterns are murkier than the numbers suggest. A case listed under "Microsoft + OpenAI + Azure" tells you about partnerships and distribution channels, but not necessarily about which technology actually drove the value.
+
+This isn't a flaw in the data. It's a feature of how AI is actually deployed. Multi-vendor solutions are common. But it makes "market share" calculations misleading.
 
 ---
 
-## Vendor Presence by Industry
+## 🔑 Top Tools & Platforms
 
-### Financial Services (371 cases):
-- Microsoft: 96 cases
-- AWS: Present across major banks
-- Anthropic: Growing in high-compliance scenarios
-- Google: Increasing presence
+| Tool/Platform              | Documented Mentions |
+|-----------------------------|----------------------|
+| Azure OpenAI Service       | 181 |
+| Amazon Bedrock             | 160 |
+| Microsoft 365 Copilot      | 106 |
+| Microsoft Azure            | 103 |
+| Anthropic API / Claude     | 101 |
+| Vertex AI                  | 90 |
+| Amazon SageMaker           | 82 |
+| GitHub Copilot             | 53 |
+| IBM watsonx Assistant      | 36 |
+| Google Gemini              | 30+ |
 
-### Healthcare (347 cases):
-- Microsoft Azure: 79 cases (dominated by Azure OpenAI + Copilot)
-- OpenAI: Breakthrough research applications
-- Google: Vertex AI for medical imaging
-- AWS: HealthLake integrations
-
-### Technology Sector (492 cases):
-- Anthropic favored by startups: 44 cases
-- OpenAI: Standard among tech companies
-- Microsoft: Enterprise platform integrations
-- Google: Developer-friendly Gemini adoption
-
-### Retail & E-commerce (243 cases):
-- Google Gemini leads: 45 cases (personalization, recommendations)
-- AWS: Infrastructure for recommendation engines
-- Microsoft: Supply chain + inventory optimization
+**Key Observation:** Microsoft owns 93% of the "Copilot" mentions in our dataset.
 
 ---
 
-## Market Position Analysis
+## 🏢 Industry Distribution (by Tool Mentions)
 
-### The "Big Three" Cloud Providers:
-**Microsoft**: 
-- ✅ Strongest enterprise integration (Office 365, Azure, Teams)
-- ✅ Copilot brand dominance
-- ⚠️ Slower growth vs competition
-
-**Google**:
-- ✅ Fastest growth (+77% tool mentions)
-- ✅ Gemini competitive on price/performance
-- ✅ Strong developer experience
-- ⚠️ Still building enterprise trust
-
-**AWS**:
-- ✅ Multi-model flexibility (Bedrock)
-- ✅ Neutral platform for model choice
-- ✅ Strong in cost-conscious enterprises
-- ⚠️ Less visible in published cases vs actual usage
-
-### The "Model Innovators":
-**OpenAI**:
-- ✅ Innovation leader (GPT-4, o1/o3 reasoning)
-- ✅ Sets the benchmark for capabilities
-- ⚠️ Primarily accessed via Microsoft Azure
-
-**Anthropic**:
-- ✅ Quality leader in high-stakes applications
-- ✅ Long-context capabilities (200K tokens)
-- ✅ Strong constitutional AI principles
-- ⚠️ Smaller scale vs OpenAI/Google
-
-### The "Infrastructure Provider":
-**NVIDIA**:
-- ✅ Powers infrastructure for all vendors
-- ✅ Critical for training and inference
-- ⚠️ Documented usage understates true presence
-
-### The "Legacy Enterprise":
-**IBM**:
-- ✅ Strong governance and compliance features
-- ✅ Trusted in regulated industries
-- ⚠️ Losing ground to cloud-native competitors
+Microsoft, OpenAI, and Anthropic are visible across all major industries. Notable highlights:  
+- **Financial Services:** Microsoft (96 cases), AWS and Google present.  
+- **Healthcare:** Microsoft Azure dominates (79 cases); OpenAI drives research breakthroughs.  
+- **Technology:** Anthropic favored by startups (44 cases).  
+- **Retail & E-commerce:** Google Gemini leads in personalization (45 cases).  
 
 ---
 
-## Key Takeaways
+## 🎯 Takeaways
 
-1. **Google is the growth story**: +77% in tool mentions driven by Gemini's multimodal capabilities and aggressive enterprise push
-
-2. **Microsoft maintains dominance** through ecosystem lock-in but growth is slowing—the Azure + Copilot moat is strong
-
-3. **OpenAI leads innovation** with reasoning models (o1/o3) unlocking new use cases, even if accessed via partners
-
-4. **Anthropic wins on quality**: Disproportionately represented in high-impact, high-stakes use cases despite smaller scale
-
-5. **AWS Bedrock enables choice**: Multi-model flexibility appeals to enterprises wanting to avoid vendor lock-in
-
-6. **IBM holds legacy ground** but cloud-native competitors are winning new deployments
-
-7. **NVIDIA is everywhere**: Infrastructure dominance means every vendor depends on NVIDIA, even if not explicitly mentioned
-
----
-
-## Trends to Watch
-
-- **Reasoning models** (o1/o3, GPT-5) driving premium use cases
-- **Gemini's enterprise adoption** challenging Microsoft's dominance
-- **Multi-modal AI** becoming table stakes across vendors
-- **Agentic frameworks** requiring orchestration across multiple models
-- **Cost optimization** driving multi-model strategies on Bedrock
-- **Anthropic's Claude** gaining in regulated industries (healthcare, finance, legal)
+- **Google** leads in publication volume (33% of cases), showing aggressive content marketing.
+- **Microsoft** dominates enterprise presence, both technically (25% of tool mentions) and in published cases (25%).  
+- **OpenAI** shows strong technical adoption (17% of tool mentions) despite publishing only 5% of cases directly.
+- **Anthropic** appears in 7% of tool mentions, with 175 published cases (6%), showing strong presence for a newer entrant.
+- **AWS** offers flexible, multi-model hosting with Bedrock (12% tool mentions).  
+- **Google** is strong in retail/e-commerce and has highest publication velocity.
+- **IBM** remains in legacy sectors (7% of tool mentions, 7% of publications).  
+- **NVIDIA** thrives as AI infrastructure backbone (8% tool mentions, 7% publications).  
 
 ---
 
 **Conclusion:**  
+This vendor comparison shows not just *who is building AI solutions*, but also *who is publishing them*.  
+- Tool mentions reveal **technical adoption**.  
+- Source counts reveal **marketing activity**.  
 
-This vendor comparison reveals two distinct stories:
-
-1. **Technical adoption** (Tool mentions): Shows Google's explosive growth while Microsoft maintains leadership
-2. **Marketing activity** (Source counts): Shows Google's content machine and Microsoft's established presence
-
-Both perspectives matter. Together they show a maturing market where:
-- **Microsoft** has enterprise lock-in but faces growing competition
-- **Google** is gaining ground fast with Gemini
-- **OpenAI** leads innovation despite distribution challenges  
-- **Anthropic** punches above its weight in quality applications
-- **AWS** enables multi-model flexibility for the cautious
-
-The AI vendor landscape is becoming more competitive, more diverse, and more capable—which ultimately benefits enterprises deploying these technologies.
+Both perspectives matter – and together they highlight:
+- **Google's publication dominance** (996 cases, 33%)
+- **Microsoft's enterprise lock-in** (768 tool mentions, 755 publications)
+- **OpenAI's deployment-to-publication multiplier** (3.3x: 500 mentions vs 151 publications)
+- **Anthropic's rise** in high-value use cases (215 tool mentions, 175 publications)
 
 ---
-
 <br>
 
 > ➡️ Back to [README](../README.md)
