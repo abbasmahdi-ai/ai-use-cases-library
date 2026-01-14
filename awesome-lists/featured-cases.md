@@ -1,6 +1,6 @@
 # Featured AI Use Cases
 
-A curated selection of the most **surprising, innovative, and high-impact AI applications** from our library of **3,023 cases** (up from 2,260 in v1.0). These were chosen because they demonstrate **clear ROI, measurable outcomes, novel applications, cultural impact, or breakthrough capabilities**.
+A curated selection of the most **surprising, innovative, and high-impact AI applications** from our library of **3,023 cases** (up from 2,260 in v1.0). These were chosen because they demonstrate **somewhat clear ROI, measurable outcomes, novel applications, cultural impact, or breakthrough capabilities**.
 
 ---
 
@@ -217,7 +217,7 @@ Compared to v1.0, v2.0 reveals:
 
 - **+34% more cases** (763 new entries)
 - **+77% Google Gemini adoption** (explosive multimodal growth)
-- **+50% reasoning model cases** (o1/o3 unlocking expert-level tasks)
+- **+53% reasoning model cases** (unlocking expert-level tasks)
 - **+50% manufacturing cases** (AI beyond digital-first sectors)
 - **Breakthrough healthcare applications** in drug discovery, diagnostics, and patient care
 - **Financial inclusion** and **accessibility** as emerging themes

@@ -67,7 +67,7 @@ ai-use-cases-library/
 
 ### 2. **View insights**
 
-   * [**Trends analysis**](insights/trends-analysis.md) - 6 major trends from 3,023 cases
+   * [**Trends analysis**](insights/trends-analysis.md) - 7 major trends from 3,023 cases
      - Emerging Tech: Reasoning models
      - Agentic AI going mainstream
      - Healthcare: From support to discovery
@@ -260,7 +260,7 @@ Retrieved from https://github.com/abbasmahdi-ai/ai-use-cases-library
 - AI "talking to trees" for sustainability (Avanade)
 
 ### Updated Content
-- ✅ Trends analysis - 6 major trends documented
+- ✅ Trends analysis - 7 major trends documented
 - ✅ Vendor comparison - Competitive dynamics and market shifts
 - ✅ Featured cases - 50+ breakthrough applications
 - ✅ All charts - 5 publication-ready visualizations

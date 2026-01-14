@@ -10,7 +10,7 @@ This roadmap outlines what is available today and what is planned for future rel
 ### Major Achievements
 - **+34% Dataset Growth**: Expanded from 2,260 to **3,023 curated use cases**
 - **+77% Google Gemini Adoption**: Tracked explosive growth in multimodal AI deployment
-- **+135% Reasoning Models**: Documented emergence of o1/o3/GPT-5 in production
+- **+53% Reasoning Models**: Documented emergence of reasoning models in production
 - **+50% Manufacturing Cases**: Captured AI expansion beyond digital-first industries
 - **Breakthrough Applications**: 4-hour bacterial diagnosis, intraoperative brain tumor detection, financial inclusion at scale
 
@@ -100,7 +100,7 @@ This roadmap outlines what is available today and what is planned for future rel
 
 ### Awesome Lists Expansion
 - **`awesome-lists/by-technology.md`** → curated by tech stack:
-  - Reasoning models (o1/o3/GPT-5)
+  - Reasoning models
   - Agentic AI systems
   - Multimodal applications
   - RAG & embeddings
